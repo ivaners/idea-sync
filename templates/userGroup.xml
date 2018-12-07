@@ -1,0 +1,35 @@
+<templateSet group="userGroup">
+  <template name="drdutest" value="&#10;&#10;public static void main(String[] args) {&#10;        Map&lt;String,String&gt; params = Maps.newHashMap();&#10;&#10;&#10;        String content = new DoorduBaseTestCase.Builder()&#10;                .map(params)&#10;                .path(&quot;&quot;)&#10;                .post();&#10;        System.out.println(content);&#10;}&#10;    &#10;    &#10;    " description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="spanno" value="&#10;&#10;&#10;public static void main(String[] args) {&#10;    AnnotationConfigApplicationContext&#10;            applicationContext  =&#10;            new AnnotationConfigApplicationContext();&#10;    applicationContext.register($TYPE_NAME$.class);&#10;    applicationContext.refresh();&#10;&#10;    System.out.println(&quot;applicationContext&quot;+applicationContext);&#10;}&#10;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE_NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="methcomm" value="/**&#10; * @Author:chenhuaiao&#10; * @Date:$DATE$ $TIME$&#10; * @Description:&#10; * @Param: $param$&#10; * @return $return$&#10; * @exception $exception$&#10; */" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="methodParameters()" defaultValue="" alwaysStopAt="false" />
+    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="exception" expression="expressionType(Expression)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="curpack" value="&quot;$CURRENT_PACKAGE$&quot;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="CURRENT_PACKAGE" expression="currentPackage()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="curclass" value="$CURRENT_CLASSES$.class" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="CURRENT_CLASSES" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

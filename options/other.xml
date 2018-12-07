@@ -1,0 +1,20 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="D:/Program Files/nodejs/node.exe" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
+  <component name="com.seventh7.widget.iedis.config.I">
+    <pattern>*</pattern>
+    <pattern>SystemUserCacheSchedule_/user/rpt/authtype/v1</pattern>
+    <pattern>*redis_serviceresultvo__getAuthTypeRateRpt</pattern>
+    <pattern>*SYSTEMUSER_CACHE_07d8b98bd9acdeb183f273533fcd7296_1915</pattern>
+    <pattern>SYSTEMUSER_CACHE_07d8b98bd9acdeb183f273533fcd7296_3</pattern>
+  </component>
+  <component name="com.seventh7.widget.iedis.config.ServerConfigurations">
+    <servers>
+      <general label="10.0.98.61" host="10.0.98.61" port="6379" password="Doordu2015!!" timestamp="1541051908443" />
+    </servers>
+  </component>
+</application>
