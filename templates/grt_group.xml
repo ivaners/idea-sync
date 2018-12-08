@@ -1,5 +1,5 @@
 <templateSet group="grt_group">
-  <template name="drface" value="11" toReformat="false" toShortenFQNames="true">
+  <template name="drface" value="11" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
