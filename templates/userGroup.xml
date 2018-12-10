@@ -1,0 +1,7 @@
+<templateSet group="userGroup">
+  <template name="drfaceHttp" value="    public static void main(String[] args) {&#10;        Map&lt;String, String&gt; params = Maps.newHashMap();&#10;&#10;&#10;        String content = new DoorduBaseTestCase.Builder()&#10;                .map(params)&#10;                .path(&quot;&quot;)&#10;                .post();&#10;        System.out.println(content);&#10;    }" description="多度接口调用Main" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
