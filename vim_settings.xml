@@ -1,10 +1,13 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="E:/worth/grt/grt-doordu/src/main/java/com/doordu/soa/service/comm/mq/rabbitmq/util/MqFieldDecryptConfig.java" timestamp="1544406035819">
         <mark key="[" line="12" column="13" />
+      </file>
+      <file name="E:/worth/grt/grt-doordu/src/main/java/com/grtdoordu/modules/V05周报导出/V05DoorduWeek周报导出ControllerApplication.java" timestamp="1544406719430">
+        <mark key="[" line="20" column="45" />
       </file>
       <file name="G:/doordu/branch/V1.6.2/service-admin-web/src/main/java/com/doordu/soa/service/admin/controller/user/carduser/RegisterUserFaceController.java" timestamp="1544406239951">
         <mark key="[" line="70" column="0" />
@@ -27,6 +30,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
