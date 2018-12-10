@@ -2,14 +2,23 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="E:/worth/grt/grt-doordu/src/main/java/com/doordu/soa/service/comm/mq/rabbitmq/util/MqFieldDecryptConfig.java" timestamp="1544406035819">
+        <mark key="[" line="12" column="13" />
+      </file>
+    </filemarks>
     <jumps />
     <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
