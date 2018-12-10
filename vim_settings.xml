@@ -6,6 +6,11 @@
       <file name="E:/worth/grt/grt-doordu/src/main/java/com/doordu/soa/service/comm/mq/rabbitmq/util/MqFieldDecryptConfig.java" timestamp="1544406035819">
         <mark key="[" line="12" column="13" />
       </file>
+      <file name="G:/doordu/branch/V1.6.2/service-admin-web/src/main/java/com/doordu/soa/service/admin/controller/user/carduser/RegisterUserFaceController.java" timestamp="1544406239951">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="28" />
+        <mark key="." line="70" column="28" />
+      </file>
     </filemarks>
     <jumps />
     <registers />
@@ -19,6 +24,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
