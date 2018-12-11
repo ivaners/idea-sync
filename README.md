@@ -34,5 +34,21 @@ Host git@gitee.com
  IdentitiesOnly yes
 ```
 
+**Idea Edit Custom Vm options**
 
+```
+# custom IntelliJ IDEA VM options
+
+-Xms512m
+-Xmx1500m
+-XX:ReservedCodeCacheSize=500m
+-XX:+UseConcMarkSweepGC
+-XX:SoftRefLRUPolicyMSPerMB=0
+-ea
+-Dsun.io.useCanonCaches=false
+-Djava.net.preferIPv4Stack=true
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:-OmitStackTraceInFastThrow
+-javaagent:D:/Program Files/JetBrains/IntelliJ IDEA 2018.1.4/bin/JetbrainsCrack-2.10-release-enc.jar
+```
 
