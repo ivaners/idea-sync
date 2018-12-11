@@ -16,3 +16,23 @@
 
 
 
+**idea settings repository can't be established错误解决**
+
+原因是因为git的秘钥已经失效，可以通过配置~/.ssh/config增加配置来实现
+
+idea setting repository保存的git配置文件位置是：
+
+`D:\.IntelliJIdea2018.1\config\settingsRepository\repository\.git`
+
+所以本身的git是没有问题的，只需要增加ssh会话即可
+
+```
+Host git@gitee.com
+ HostName %h
+ User huaiao
+ IdentityFile C:/Users/Administrator/.ssh/id_rsa
+ IdentitiesOnly yes
+```
+
+
+
