@@ -22,6 +22,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
+                              <option name="color" value="-16382715" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -73,15 +74,6 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*TRACE.*" />
-                      <option name="style">
-                        <GrepStyle>
-                          <option name="foregroundColor">
-                            <GrepColor>
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
-                        </GrepStyle>
-                      </option>
                     </GrepExpressionItem>
                   </list>
                 </option>
