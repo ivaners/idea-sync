@@ -17,6 +17,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Favorites">
+        <Item>
+          <IdeaActionID>ActivateFavoritesToolWindow</IdeaActionID>
+          <ShortCut>'Alt+2'</ShortCut>
+          <Description>Favorites</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Implementation(s)">
         <Item>
           <IdeaActionID>GotoImplementation</IdeaActionID>
@@ -30,7 +38,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'JGitSSHTagUtil.main()'</Description>
-          <Count>4</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'JGitSSHUtil.main()'">
@@ -63,6 +71,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'JGitSshUtil'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'V71SpringBoot的Web开发支持Application'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'V71SpringBoot的Web开发支持Application'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
