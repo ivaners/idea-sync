@@ -14,7 +14,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -22,7 +22,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>1</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DoorduTestAppl....main()'">
@@ -54,7 +54,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'JGitSSHTagUtil.main()'</Description>
-          <Count>4</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'JGitSSHUtil.main()'">
@@ -62,7 +62,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'JGitSSHUtil.main()'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'JGitSshUtil.main()'">
@@ -102,6 +102,14 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'JGitSSHTagUtil'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'JGitSSHTagUtil'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
