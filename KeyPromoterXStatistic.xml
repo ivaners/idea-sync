@@ -30,7 +30,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'UserApplication'</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -38,7 +38,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>79</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -54,7 +54,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>113</Count>
+          <Count>119</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -118,7 +118,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V01用户SessionId....main()'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V05DoorduWeek周....main()'">
@@ -182,7 +182,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'UserApplication'</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'V71SpringBoot的Web开发支持Application'">
