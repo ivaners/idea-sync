@@ -198,7 +198,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V01用户SessionId....main()'</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V01综治后端上传文件到阿里....main()'">
@@ -254,6 +254,14 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Dependencies...">
+        <Item>
+          <IdeaActionID>ShowUmlDiagram</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+U'</ShortCut>
+          <Description>Show Dependencies...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
