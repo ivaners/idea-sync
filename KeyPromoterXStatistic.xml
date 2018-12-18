@@ -6,7 +6,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'Ctrl+Alt+A'</ShortCut>
           <Description>Add</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -70,7 +70,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>108</Count>
+          <Count>109</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -94,7 +94,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>152</Count>
+          <Count>154</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -190,7 +190,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V01用户SessionId....main()'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V01综治后端上传文件到阿里....main()'">
