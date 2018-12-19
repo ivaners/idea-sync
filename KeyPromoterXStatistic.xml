@@ -313,6 +313,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'V01首页消息中心列表查询T....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'V01首页消息中心列表查询T....main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'V03申请令牌TestCase.main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
