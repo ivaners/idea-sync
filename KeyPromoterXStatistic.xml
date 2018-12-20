@@ -6,7 +6,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'Ctrl+Alt+A'</ShortCut>
           <Description>Add</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Call Hierarchy">
@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>249</Count>
+          <Count>250</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -134,7 +134,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>213</Count>
+          <Count>214</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
