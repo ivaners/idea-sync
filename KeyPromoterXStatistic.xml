@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>289</Count>
+          <Count>290</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -174,7 +174,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -486,7 +486,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'DoorduRabbitMqApplication'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FlowApplication'">
@@ -630,7 +630,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Hierarchy">
