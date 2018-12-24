@@ -41,20 +41,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug">
-        <Item>
-          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
-          <ShortCut>'Alt+5'</ShortCut>
-          <Description>Debug</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug 'Application'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Application'</Description>
-          <Count>35</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DeviceApplication'">
@@ -62,23 +54,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'DeviceApplication'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'DoorduRabbitMqApplication'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug 'DoorduRabbitMqApplication'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'DoorduWebSocketClientTestCase'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug 'DoorduWebSocketClientTestCase'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'FlowApplication'">
@@ -86,7 +62,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'FlowApplication'</Description>
-          <Count>5</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'HouseApplication'">
@@ -94,7 +70,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'HouseApplication'</Description>
-          <Count>6</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'JGitSshUtil'">
@@ -105,20 +81,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'NoticeApplication'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug 'NoticeApplication'</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug 'UserApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'UserApplication'</Description>
-          <Count>21</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -126,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>336</Count>
+          <Count>131</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -134,7 +102,7 @@
           <IdeaActionID>ShowFilePath</IdeaActionID>
           <ShortCut>'Ctrl+Alt+F12'</ShortCut>
           <Description>Directory Path</Description>
-          <Count>5</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -142,7 +110,15 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>2</Count>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hierarchy">
+        <Item>
+          <IdeaActionID>ActivateHierarchyToolWindow</IdeaActionID>
+          <ShortCut>'Alt+8'</ShortCut>
+          <Description>Hierarchy</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -150,15 +126,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>229</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Project">
-        <Item>
-          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
-          <ShortCut>'Alt+1'</ShortCut>
-          <Description>Project</Description>
-          <Count>2</Count>
+          <Count>163</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -166,7 +134,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>5</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile 'JGitSSHUtil.java'">
@@ -190,7 +158,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>32</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -198,7 +166,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>11</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -206,7 +174,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>3</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DateUtil.main()'">
@@ -217,36 +185,12 @@
           <Count>3</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'DoorduRabbitMqApplic...'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
-          <Description>Run 'DoorduRabbitMqApplic...'</Description>
-          <Count>11</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run 'DoorduTestAppl....main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'DoorduTestAppl....main()'</Description>
           <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'DoorduWebSocke....main()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
-          <Description>Run 'DoorduWebSocke....main()'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'DoorduWebSocketServe...'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
-          <Description>Run 'DoorduWebSocketServe...'</Description>
-          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Doordu代码分支拉取Br....main()'">
@@ -286,7 +230,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'JGitSSHUtil.main()'</Description>
-          <Count>14</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'JGitSshUtil.main()'">
@@ -297,59 +241,11 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'RabbitMqFANOUT....main()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
-          <Description>Run 'RabbitMqFANOUT....main()'</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'RabbitMqReceiv....main()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
-          <Description>Run 'RabbitMqReceiv....main()'</Description>
-          <Count>8</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'RabbitMqSendTe....main()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
-          <Description>Run 'RabbitMqSendTe....main()'</Description>
-          <Count>20</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'RabbitMqTOPICR....main()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
-          <Description>Run 'RabbitMqTOPICR....main()'</Description>
-          <Count>9</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'SpringBootRunApplica...'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
-          <Description>Run 'SpringBootRunApplica...'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run 'UserApplication.main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'UserApplication.main()'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'V01WebSocket添加....main()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
-          <Description>Run 'V01WebSocket添加....main()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -366,7 +262,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V01用户SessionId....main()'</Description>
-          <Count>17</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V01综治后端上传文件到阿里....main()'">
@@ -382,23 +278,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V01设备保修列表listT....main()'</Description>
-          <Count>8</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'V01首页消息中心_列表查询....main()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
-          <Description>Run 'V01首页消息中心_列表查询....main()'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'V01首页消息中心列表查询T....main()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
-          <Description>Run 'V01首页消息中心列表查询T....main()'</Description>
-          <Count>1</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V03申请令牌TestCase.main()'">
@@ -406,15 +286,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V03申请令牌TestCase.main()'</Description>
-          <Count>8</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'V04用户开卡授权_未选择卡....main()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
-          <Description>Run 'V04用户开卡授权_未选择卡....main()'</Description>
-          <Count>1</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V05DoorduWeek周....main()'">
@@ -422,14 +294,6 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V05DoorduWeek周....main()'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'V05获取小区列表TestC....main()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
-          <Description>Run 'V05获取小区列表TestC....main()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -441,44 +305,12 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'V46修改楼栋信息TestC....main()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
-          <Description>Run 'V46修改楼栋信息TestC....main()'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'V71SpringBoot的....main()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
-          <Description>Run 'V71SpringBoot的....main()'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run 'V71SpringBoot的Web开发支...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V71SpringBoot的Web开发支...'</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'WebSocketTestC....main()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
-          <Description>Run 'WebSocketTestC....main()'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'clientSocketTest()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
-          <Description>Run 'clientSocketTest()'</Description>
-          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Save All">
@@ -510,7 +342,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>29</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DeviceApplication'">
@@ -519,30 +351,6 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'DeviceApplication'</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'DoorduRabbitMqApplication'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'DoorduRabbitMqApplication'</Description>
-          <Count>17</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'DoorduWebSocketClientTestCase'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'DoorduWebSocketClientTestCase'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'DoorduWebSocketServerApplication'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'DoorduWebSocketServerApplication'</Description>
-          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FlowApplication'">
@@ -566,7 +374,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'JGitSSHUtil'</Description>
-          <Count>6</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'JGitSshUtil'">
@@ -577,52 +385,12 @@
           <Count>3</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'NoticeApplication'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'NoticeApplication'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'RabbitMqFANOUTReceiveTestCase'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'RabbitMqFANOUTReceiveTestCase'</Description>
-          <Count>7</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'RabbitMqReceiveTestCase'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'RabbitMqReceiveTestCase'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'RabbitMqSendTestCase'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'RabbitMqSendTestCase'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'RabbitMqTOPICReceiveTestCase'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'RabbitMqTOPICReceiveTestCase'</Description>
-          <Count>14</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop 'UserApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'UserApplication'</Description>
-          <Count>13</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'V01新增人脸库接口TestCase'">
@@ -631,14 +399,6 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'V01新增人脸库接口TestCase'</Description>
           <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'V01用户SessionId登录和Token获取TestCase'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'V01用户SessionId登录和Token获取TestCase'</Description>
-          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'V01设备保修列表listTestCase'">
@@ -654,7 +414,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'V71SpringBoot的Web开发支持Application'</Description>
-          <Count>5</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
@@ -662,15 +422,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>16</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="TODO">
-        <Item>
-          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
-          <ShortCut>'Alt+6'</ShortCut>
-          <Description>TODO</Description>
-          <Count>1</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -678,7 +430,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>4</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -686,15 +438,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>44</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Type Hierarchy">
-        <Item>
-          <IdeaActionID>TypeHierarchy</IdeaActionID>
-          <ShortCut>'Ctrl+H'</ShortCut>
-          <Description>Type Hierarchy</Description>
-          <Count>1</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -702,7 +446,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>3</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
@@ -710,7 +454,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>7</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
     </option>
