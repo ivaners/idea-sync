@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>417</Count>
+          <Count>420</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -647,6 +647,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'UserApplication'</Description>
           <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'V01同步新用户房间绑定关系TestCaseApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'V01同步新用户房间绑定关系TestCaseApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'V01新增人脸库接口TestCase'">
