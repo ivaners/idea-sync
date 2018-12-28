@@ -206,7 +206,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>221</Count>
+          <Count>222</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
