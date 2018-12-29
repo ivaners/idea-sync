@@ -174,7 +174,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>641</Count>
+          <Count>659</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -847,6 +847,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ServiceRibbonApplication'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SpringBootWarApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SpringBootWarApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'UserApplication'">
