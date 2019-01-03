@@ -182,7 +182,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>864</Count>
+          <Count>876</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -214,7 +214,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>344</Count>
+          <Count>345</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
