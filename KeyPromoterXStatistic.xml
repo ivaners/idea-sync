@@ -182,7 +182,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>985</Count>
+          <Count>988</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -326,7 +326,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>190</Count>
+          <Count>193</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1038,7 +1038,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>234</Count>
+          <Count>236</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
@@ -1062,7 +1062,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>28</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
     </option>
