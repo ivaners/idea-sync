@@ -190,7 +190,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1077</Count>
+          <Count>1081</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -223,14 +223,6 @@
           <ShortCut>'Alt+8'</ShortCut>
           <Description>Hierarchy</Description>
           <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Implementation(s)">
-        <Item>
-          <IdeaActionID>GotoImplementation</IdeaActionID>
-          <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
-          <Description>Implementation(s)</Description>
-          <Count>609</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -1119,6 +1111,16 @@
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
           <Count>69</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Implementation(s)">
+        <Item>
+          <IdeaActionID>GotoImplementation</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
+          <Description>Implementation(s)</Description>
+          <Count>611</Count>
         </Item>
       </Statistic>
     </option>
