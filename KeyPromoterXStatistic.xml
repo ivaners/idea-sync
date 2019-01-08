@@ -1009,6 +1009,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'V01设备卡名称修改TestCase'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'V01设备卡名称修改TestCase'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'V03查询系统配置消息中心通知人员名单TestCase'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
