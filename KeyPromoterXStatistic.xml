@@ -17,6 +17,14 @@
           <Count>14</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Directory Path">
+        <Item>
+          <IdeaActionID>ShowFilePath</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+F12'</ShortCut>
+          <Description>Directory Path</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Push...">
         <Item>
           <IdeaActionID>Vcs.Push</IdeaActionID>
