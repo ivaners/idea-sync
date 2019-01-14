@@ -153,6 +153,14 @@
           <Count>14</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'TestFrameworkApplica...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'TestFrameworkApplica...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'V01停车记录列表查询Tes....main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
