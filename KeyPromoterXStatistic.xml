@@ -41,14 +41,6 @@
           <Count>3</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'DeviceApplication'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug 'DeviceApplication'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug 'FlowApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -78,7 +70,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>70</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -102,7 +94,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -150,7 +142,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'TestFrameworkApplica...'</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'TestFrameworkApplication'">
@@ -238,7 +230,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'TestFrameworkApplication'</Description>
-          <Count>28</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'V01用户SessionId登录和Token获取TestCase'">
@@ -283,6 +275,14 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Debug 'DeviceApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'DeviceApplication'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'TestFrameworkApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
