@@ -41,6 +41,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'DubboProviderApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'DubboProviderApplication'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'FlowApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -70,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>130</Count>
+          <Count>151</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -135,6 +143,22 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'Doordu代码分支拉取Br....main()'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DubboCustomerApplica...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'DubboCustomerApplica...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DubboProviderApplica...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'DubboProviderApplica...'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'JGitSSHUtil.main()'">
@@ -281,6 +305,22 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'DubboCustomerApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'DubboCustomerApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DubboProviderApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'DubboProviderApplication'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'TestFrameworkApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -326,7 +366,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
     </option>
