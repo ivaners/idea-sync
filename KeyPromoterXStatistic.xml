@@ -230,7 +230,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'SpiderApplication (1)'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Test.main()'">
@@ -390,7 +390,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'SpiderApplication (1)'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TestFrameworkApplication'">
@@ -443,6 +443,12 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Close All">
+        <Item>
+          <IdeaActionID>CloseAllEditors</IdeaActionID>
+          <Description>Close All</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'DeviceApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
