@@ -337,6 +337,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'GrtGameWebApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'GrtGameWebApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'TestFrameworkApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
