@@ -13,10 +13,10 @@
     <mask>*.mxml</mask>
     <mask>*.css</mask>
     <mask>*Contr*.java</mask>
-    <mask>pom.xml</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
+    <mask>pom.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
     <mask>*.*</mask>
   </component>
 </application>
