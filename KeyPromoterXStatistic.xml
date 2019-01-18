@@ -254,7 +254,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'TestFrameworkApplica...'</Description>
-          <Count>19</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'TestFrameworkApplication'">
@@ -438,7 +438,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'TestFrameworkApplication'</Description>
-          <Count>87</Count>
+          <Count>88</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'UserApplication'">
@@ -446,7 +446,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'UserApplication'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'V01用户SessionId登录和Token获取TestCase'">
