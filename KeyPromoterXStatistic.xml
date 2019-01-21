@@ -142,7 +142,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>158</Count>
+          <Count>160</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -302,7 +302,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V01同步_客户房间关系表_....main()'</Description>
-          <Count>7</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V01新增人脸库接口Test....main()'">
@@ -478,7 +478,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'UserApplication'</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'V01用户SessionId登录和Token获取TestCase'">
