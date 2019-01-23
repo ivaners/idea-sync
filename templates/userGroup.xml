@@ -16,13 +16,19 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="sprun" value="/**&#10;     * SpringBoot main方法启动&#10;     *&#10;     * @param args&#10;     */&#10;    public static void main(String[] args) {&#10;        SpringApplication.run($CURRENT_CLASS$.class, args);&#10;    }" description="springBoot Main方法启动" toReformat="false" toShortenFQNames="true">
+  <template name="sprun" value="/**&#10;* SpringBoot main方法启动&#10;*&#10;* @param args&#10;*/&#10;public static void main(String[] args) {&#10;    SpringApplication.run($CURRENT_CLASS$.class, args);&#10;}" description="springBoot Main方法启动" toReformat="false" toShortenFQNames="true">
     <variable name="CURRENT_CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
   <template name="curclass_name" value="$CURRENT_CLASS$.class.getName()" description="输出当前类名称" toReformat="false" toShortenFQNames="true">
+    <variable name="CURRENT_CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="slf4j" value="private static Logger logger = LoggerFactory.getLogger($CURRENT_CLASS$.class.getName());" description="logger日志对象" toReformat="false" toShortenFQNames="true">
     <variable name="CURRENT_CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
