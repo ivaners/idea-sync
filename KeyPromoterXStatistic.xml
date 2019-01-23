@@ -209,12 +209,20 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'JGitSSHApplication'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'JGitSSHApplication'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'JGitSSHUtil.main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'JGitSSHUtil.main()'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Slf4jLoggerApplication'">
