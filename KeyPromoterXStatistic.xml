@@ -38,15 +38,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'Application'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug 'Application'</Description>
-          <Count>7</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DubboProviderApplication'">
@@ -57,28 +49,12 @@
           <Count>6</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'FlowApplication'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug 'FlowApplication'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'HouseApplication'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug 'HouseApplication'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug 'UserApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'UserApplication'</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -86,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>212</Count>
+          <Count>218</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -94,6 +70,14 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hierarchy">
+        <Item>
+          <IdeaActionID>ActivateHierarchyToolWindow</IdeaActionID>
+          <ShortCut>'Alt+8'</ShortCut>
+          <Description>Hierarchy</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -134,7 +118,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>132</Count>
+          <Count>139</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -222,7 +206,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'JGitSSHUtil.main()'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Slf4jLoggerApplication'">
@@ -254,7 +238,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'TestFrameworkApplica...'</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'TestFrameworkApplication'">
@@ -286,7 +270,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V01用户SessionId....main()'</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V02修改人脸库接口Test....main()'">
@@ -318,7 +302,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V07登记用户信息修改Tes....main()'</Description>
-          <Count>2</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V47同步没有创建人的小区T....main()'">
@@ -393,6 +377,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'JGitSSHUtil'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'JGitSSHUtil'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'SpiderApplication (1)'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -406,7 +398,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'TestFrameworkApplication'</Description>
-          <Count>87</Count>
+          <Count>88</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'V01用户SessionId登录和Token获取TestCase'">
@@ -414,7 +406,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'V01用户SessionId登录和Token获取TestCase'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
@@ -422,7 +414,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -430,7 +422,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -446,7 +438,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>14</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
     </option>
@@ -457,12 +449,36 @@
           <Description>Close All</Description>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Application'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Application'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'DeviceApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'DeviceApplication'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'FlowApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'FlowApplication'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'HouseApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'HouseApplication'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'TestFrameworkApplication'">
