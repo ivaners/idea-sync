@@ -34,4 +34,18 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="author_method" value="/**&#10;*@Description: $discription$&#10;*@Param: $params$&#10;*@return: $return$&#10;*@Author: huaiao&#10;*@date: $date$&#10;*/" description="java添加类方法说明" toReformat="false" toShortenFQNames="true">
+    <variable name="discription" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="author_class" value="/**&#10; *@program: ${PROJECT_NAME}&#10; *@description: ${description}&#10; *@author: huaiao&#10; *@create: ${YEAR}-${MONTH}-${DAY} ${HOUR}:${MINUTE}&#10; */" description="java添加类说明" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
