@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -14,9 +14,9 @@
     <mask>*Contr*.java</mask>
     <mask>pom.xml</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.*</mask>
+    <mask>*.java</mask>
   </component>
 </application>
