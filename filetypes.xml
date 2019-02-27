@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="centos_grt_shell" type="PLAIN_TEXT" />
     </extensionMap>
