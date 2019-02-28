@@ -1,5 +1,11 @@
 # idea Settings Repository
 
+**Idea Terminal配置**
+```
+<option name="myShellPath" value="/bin/bash" />
+<option name="myShellPath" value="C:\Windows\System32\cmd.exe" />
+```
+
 **配置 Settings Repository**
 如果要共享 IDE 设置，请执行以下步骤：
 
