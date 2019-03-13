@@ -44,7 +44,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="springboot_run" value="private static Logger logger = LoggerFactory.getLogger($CURRENT_CLASS$.class.getName());&#10;&#10;public static void main(String[] args) {&#10;    SpringApplication.run($CURRENT_CLASS$.class, args);&#10;}" description="springBoot方式启动main" toReformat="false" toShortenFQNames="true">
+  <template name="springboot_run" value="&#10;&#10;public static void main(String[] args) {&#10;    SpringApplication.run($CURRENT_CLASS$.class, args);&#10;}" description="springBoot方式启动main" toReformat="false" toShortenFQNames="true">
     <variable name="CURRENT_CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
