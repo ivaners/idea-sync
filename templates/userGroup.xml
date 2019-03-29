@@ -1,5 +1,5 @@
 <templateSet group="userGroup">
-  <template name="doordu_faceHttp" value="/**&#10; * &#10; */&#10;public static void main&#10;(String[]args){&#10;    Map&lt;String, String&gt; params = com.google.common.collect.Maps.newHashMap();&#10;&#10;&#10;    String content = new DoorduBaseTestCase.Builder()&#10;            .map(params)&#10;            .path(&quot;&quot;)&#10;            .post();&#10;&#10;    System.out.println(content);&#10;}" description="多度接口调用Main" toReformat="false" toShortenFQNames="true">
+  <template name="doordu_faceHttp" value="/**&#10; * &#10; */&#10;public static void main(String[]args){&#10;    Map&lt;String, String&gt; params = com.google.common.collect.Maps.newHashMap();&#10;&#10;&#10;    String content = new DoorduBaseTestCase.Builder()&#10;            .map(params)&#10;            .path(&quot;&quot;)&#10;            .post();&#10;&#10;    System.out.println(content);&#10;}" description="多度接口调用Main" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
