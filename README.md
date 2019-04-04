@@ -55,7 +55,7 @@ Host git@gitee.com
 -Djava.net.preferIPv4Stack=true
 -XX:+HeapDumpOnOutOfMemoryError
 -XX:-OmitStackTraceInFastThrow
--javaagent:D:/Program Files/JetBrains/IntelliJ IDEA 2018.1.4/bin/JetbrainsCrack-2.10-release-enc.jar
+# -javaagent:D:/Program Files/JetBrains/IntelliJ IDEA 2018.1.4/bin/JetbrainsCrack-2.10-release-enc.jar
 # 设置编码
 -Dfile.encoding=UTF-8
 # 设置抗锯齿
