@@ -22,7 +22,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'Ctrl+F4'</ShortCut>
           <Description>Close</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare With...">
@@ -391,6 +391,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'ThreadPoolTaskExecut...'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'UserApplication.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'UserApplication.main()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V00_新网智能_用户卡的状....main()'">
