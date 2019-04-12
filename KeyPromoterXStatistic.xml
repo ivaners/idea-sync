@@ -441,6 +441,14 @@
           <Count>21</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'V01_首页统计_布控人员预警.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'V01_首页统计_布控人员预警.main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'V01停车记录列表查询Tes....main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
