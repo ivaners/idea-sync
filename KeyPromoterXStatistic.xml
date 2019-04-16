@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>619</Count>
+          <Count>626</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -590,7 +590,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V04_多线程调用_压测登记用户.main()'</Description>
-          <Count>4</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V04_用户开卡授权_已选择....main()'">
@@ -886,7 +886,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'V04_多线程调用_压测登记用户'</Description>
-          <Count>3</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'V07_异步服务测试Application'">
