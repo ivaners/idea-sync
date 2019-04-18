@@ -654,7 +654,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V04_多线程调用_压测登记用户.main()'</Description>
-          <Count>59</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V04_用户开卡授权_已选择....main()'">
@@ -1054,7 +1054,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'V04_多线程调用_压测登记用户'</Description>
-          <Count>53</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'V05_Aliyun_OSSClientTest'">
