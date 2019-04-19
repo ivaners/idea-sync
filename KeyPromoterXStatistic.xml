@@ -70,7 +70,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>17</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DubboProviderApplication'">
@@ -94,7 +94,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'UserApplication'</Description>
-          <Count>52</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'V07_异步服务测试Application'">
@@ -878,7 +878,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CaptureApplication'">
