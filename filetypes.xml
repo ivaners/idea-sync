@@ -3,8 +3,9 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="centos_grt_shell" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="企业模板整理" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="20190422" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="6" type="PLAIN_TEXT" />
     </extensionMap>
