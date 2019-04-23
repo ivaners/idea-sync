@@ -857,6 +857,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'V10Third门禁主机解绑....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'V10Third门禁主机解绑....main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'V10_删除用户_第三方接口文档.main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
