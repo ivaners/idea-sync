@@ -22,7 +22,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'Ctrl+F4'</ShortCut>
           <Description>Close</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -70,7 +70,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>27</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DubboProviderApplication'">
@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>978</Count>
+          <Count>981</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -262,7 +262,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>232</Count>
+          <Count>235</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -545,6 +545,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'UserOpenApiCon....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'UserOpenApiCon....main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'V00_APP用户授权_AP....main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -606,7 +614,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V01_电信_人脸照片_新增....main()'</Description>
-          <Count>4</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V01_登记用户.main()'">
@@ -753,6 +761,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'V04_APP接口_自助授权....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'V04_APP接口_自助授权....main()'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'V04_多线程调用_压测登记用户.main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -798,7 +814,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V07_APP自助授权提交_....main()'</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V07_异步服务测试Applicatio...'">
@@ -1230,7 +1246,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>66</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -1262,7 +1278,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>38</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
     </option>
