@@ -94,7 +94,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'UserApplication'</Description>
-          <Count>65</Count>
+          <Count>66</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'V07_异步服务测试Application'">
@@ -246,7 +246,7 @@
           <IdeaActionID>FileChooser.Refresh</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Refresh</Description>
-          <Count>56</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'TestFrameworkApplication'">
@@ -262,7 +262,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>249</Count>
+          <Count>254</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1214,7 +1214,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'UserApplication'</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'V01_UserSessionIdLoginAndTokenGet'">
@@ -1310,7 +1310,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>75</Count>
+          <Count>76</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -1342,7 +1342,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>41</Count>
+          <Count>43</Count>
         </Item>
       </Statistic>
     </option>
