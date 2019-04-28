@@ -825,6 +825,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'V05_DoorduWeek....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'V05_DoorduWeek....main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'V05_分页查询_出入记录列....main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
