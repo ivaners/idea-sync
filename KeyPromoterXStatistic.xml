@@ -70,7 +70,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AdminApplication'">
@@ -110,7 +110,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'UserApplication'</Description>
-          <Count>73</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'V07_异步服务测试Application'">
@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1394</Count>
+          <Count>1397</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -150,7 +150,7 @@
           <IdeaActionID>ActivateHierarchyToolWindow</IdeaActionID>
           <ShortCut>'Alt+8'</ShortCut>
           <Description>Hierarchy</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Module Settings">
@@ -310,7 +310,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>305</Count>
+          <Count>307</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -945,6 +945,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'V05_等保三级_登录第一步.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'V05_等保三级_登录第一步.main()'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'V06_新用户体系_用户管理....main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -975,6 +983,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V07_异步服务测试Applicatio...'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'V07_等保三级_验证码登录.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'V07_等保三级_验证码登录.main()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V07登记用户信息修改Tes....main()'">
@@ -1438,7 +1454,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>80</Count>
+          <Count>81</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
