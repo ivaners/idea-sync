@@ -545,6 +545,22 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'NettyClientTes....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'NettyClientTes....main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'NettyServerTes....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'NettyServerTes....main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Slf4jLoggerApplication'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
