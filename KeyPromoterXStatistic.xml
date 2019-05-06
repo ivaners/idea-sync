@@ -1174,7 +1174,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V20_天翔需求光明Appl....main()'</Description>
-          <Count>5</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V42房东卡列表查询Test....main()'">
@@ -1463,6 +1463,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'V19_OSSClient_AliyunApplication'</Description>
           <Count>46</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'V20_天翔需求光明Application'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'V20_天翔需求光明Application'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
