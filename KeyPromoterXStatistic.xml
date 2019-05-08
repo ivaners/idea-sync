@@ -310,7 +310,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>324</Count>
+          <Count>325</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1222,7 +1222,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V19_OSSClient_....main()'</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V19_OSSClient_Aliyun...'">
@@ -1230,7 +1230,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V19_OSSClient_Aliyun...'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V20_天翔需求光明Appl....main()'">
@@ -1590,7 +1590,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'V19_OSSClient_AliyunApplication'</Description>
-          <Count>46</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'V20_天翔需求光明Application'">
@@ -1630,7 +1630,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>89</Count>
+          <Count>94</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
