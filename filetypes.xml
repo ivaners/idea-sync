@@ -2,14 +2,18 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="centos_grt_shell" type="PLAIN_TEXT" />
+      <mapping pattern="CentOS Docker 安装" type="PLAIN_TEXT" />
+      <mapping pattern="20190422" type="PLAIN_TEXT" />
       <mapping pattern="ReadMe" type="PLAIN_TEXT" />
       <mapping pattern="企业模板整理" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="profile" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
-      <mapping pattern="20190422" type="PLAIN_TEXT" />
+      <mapping pattern="centos_grt_shell" type="PLAIN_TEXT" />
+      <mapping pattern="ifcfg-ens33" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="6" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
