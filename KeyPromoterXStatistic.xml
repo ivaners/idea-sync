@@ -302,7 +302,7 @@
           <IdeaActionID>FileChooser.Refresh</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Refresh</Description>
-          <Count>68</Count>
+          <Count>90</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'AdminApplication'">
