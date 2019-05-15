@@ -6,13 +6,14 @@
       <mapping pattern="centos_grt_shell" type="PLAIN_TEXT" />
       <mapping pattern="ReadMe" type="PLAIN_TEXT" />
       <mapping pattern="企业模板整理" type="PLAIN_TEXT" />
-      <mapping pattern="Postgres" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="profile" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="Postgres" type="PLAIN_TEXT" />
       <mapping pattern="Postgres-导入导出" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="20190422" type="PLAIN_TEXT" />
       <mapping pattern="ifcfg-ens33" type="PLAIN_TEXT" />
+      <mapping pattern="postgres-触发器创建" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="6" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
