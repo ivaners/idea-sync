@@ -366,7 +366,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>425</Count>
+          <Count>427</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -382,7 +382,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>31</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AdminApplication'">
@@ -790,7 +790,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V002_PostgreSQ....main()'</Description>
-          <Count>6</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V00_APP用户授权_AP....main()'">
@@ -1606,7 +1606,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'PostGreSqlApplication'</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RedisApplication'">
@@ -1670,7 +1670,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'V002_PostgreSQL监听发布订阅实现Application'</Description>
-          <Count>17</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'V01_UserSessionIdLoginAndTokenGet'">
