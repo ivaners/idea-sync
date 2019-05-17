@@ -126,7 +126,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'UserApplication'</Description>
-          <Count>124</Count>
+          <Count>126</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'V002_PostgreSQL监听发布订阅实现Application'">
@@ -166,7 +166,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1804</Count>
+          <Count>1807</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -398,7 +398,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>504</Count>
+          <Count>509</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -542,7 +542,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'Druid加解密数据库密码T....main()'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DubboCustomerApplica...'">
@@ -830,7 +830,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V002_PostgreSQ....main()'</Description>
-          <Count>19</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V00_APP用户授权_AP....main()'">
@@ -1702,7 +1702,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'UserApplication'</Description>
-          <Count>114</Count>
+          <Count>116</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'V002_PostgreSQL监听发布订阅实现Application'">
@@ -1710,7 +1710,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'V002_PostgreSQL监听发布订阅实现Application'</Description>
-          <Count>28</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'V01_UserSessionIdLoginAndTokenGet'">
@@ -1846,7 +1846,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>120</Count>
+          <Count>122</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
