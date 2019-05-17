@@ -126,7 +126,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'UserApplication'</Description>
-          <Count>126</Count>
+          <Count>128</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'V002_PostgreSQL监听发布订阅实现Application'">
@@ -166,7 +166,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1807</Count>
+          <Count>1811</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -398,7 +398,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>509</Count>
+          <Count>510</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -830,7 +830,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V002_PostgreSQ....main()'</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V00_APP用户授权_AP....main()'">
@@ -1710,7 +1710,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'V002_PostgreSQL监听发布订阅实现Application'</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'V01_UserSessionIdLoginAndTokenGet'">
@@ -1846,7 +1846,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>122</Count>
+          <Count>123</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -1886,7 +1886,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>64</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
     </option>
