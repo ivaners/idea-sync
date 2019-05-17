@@ -126,7 +126,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'UserApplication'</Description>
-          <Count>115</Count>
+          <Count>124</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'V002_PostgreSQL监听发布订阅实现Application'">
@@ -166,7 +166,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1795</Count>
+          <Count>1804</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -398,7 +398,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>500</Count>
+          <Count>504</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -406,7 +406,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>69</Count>
+          <Count>71</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -1702,7 +1702,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'UserApplication'</Description>
-          <Count>103</Count>
+          <Count>114</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'V002_PostgreSQL监听发布订阅实现Application'">
@@ -1886,7 +1886,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>63</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
     </option>
