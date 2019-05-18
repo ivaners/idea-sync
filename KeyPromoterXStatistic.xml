@@ -118,7 +118,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'PostGreSqlApplication'</Description>
-          <Count>25</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ThreadPoolTaskExecutorTestApplication'">
@@ -174,7 +174,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1838</Count>
+          <Count>1840</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -414,7 +414,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>511</Count>
+          <Count>512</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -742,7 +742,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'PostGreSqlAppl....main()'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PostGreSqlApplication'">
@@ -1686,7 +1686,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'PostGreSqlApplication'</Description>
-          <Count>38</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RedisApplication'">
