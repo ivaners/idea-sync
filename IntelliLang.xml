@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JSON" injector-id="java">
+      <display-name>HttpRequestWithBody.body (com.mashape.unirest.request)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("body").withParameters("java.lang.String").definedInClass("com.mashape.unirest.request.HttpRequestWithBody"))]]></place>
+    </injection>
+  </component>
+</application>
