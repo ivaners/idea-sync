@@ -46,7 +46,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Relative Path">
@@ -247,6 +247,14 @@
           <ShortCut>'Ctrl+Shift+F9'</ShortCut>
           <Description>Rebuild Module 'service-root'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...SocketTestCase.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...SocketTestCase.java'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '..._登记用户_手机号码和身份证.java'">
@@ -1566,7 +1574,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'WebSocketTestC....main()'</Description>
-          <Count>9</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'clientSocketTest()'">
@@ -1927,6 +1935,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'WebSocketClientTestCase.clientSocketTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'WebSocketTestCase (1)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'WebSocketTestCase (1)'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'WebSocketTestCase'">
