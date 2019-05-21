@@ -182,7 +182,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2001</Count>
+          <Count>2014</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -263,6 +263,14 @@
           <ShortCut>'Ctrl+Shift+F9'</ShortCut>
           <Description>Recompile '...SocketTestCase.java'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...UploadTestCase.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...UploadTestCase.java'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '..._登记用户_手机号码和身份证.java'">
@@ -697,12 +705,28 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'HttpClientUtil.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'HttpClientUtil.main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'HuaDuHttpClien....main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'HuaDuHttpClien....main()'</Description>
-          <Count>8</Count>
+          <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'HuaDuUploadTes....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'HuaDuUploadTes....main()'</Description>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'IsDataTypeUtil.main()'">
@@ -1767,6 +1791,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'HouseApplication'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'HuaDuUploadTestCase'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'HuaDuUploadTestCase'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'JGitSSHUtil'">
