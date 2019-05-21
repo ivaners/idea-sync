@@ -926,7 +926,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V002_黑白名单下发日志.main()'</Description>
-          <Count>20</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V00_APP用户授权_AP....main()'">
@@ -1158,7 +1158,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V02_第三方接口_设备报警....main()'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V02_身份证件登记用户Te....main()'">
@@ -1302,7 +1302,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V06_分页查询_访客留影列....main()'</Description>
-          <Count>13</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V06_新用户体系_用户管理....main()'">
@@ -1911,6 +1911,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'V05_Aliyun_OSSClientTest'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'V06_分页查询_访客留影列表_细化门禁卡类型'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'V06_分页查询_访客留影列表_细化门禁卡类型'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'V07_异步服务测试Application'">
