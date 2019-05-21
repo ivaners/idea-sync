@@ -10,10 +10,10 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*Vo*.java</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*Vo*.java</mask>
     <mask>*.*</mask>
   </component>
 </application>
