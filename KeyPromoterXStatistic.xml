@@ -182,7 +182,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1999</Count>
+          <Count>2001</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -1639,6 +1639,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'slf4jLoggerTest()'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run Kotlin Scratch">
+        <Item>
+          <IdeaActionID>Kotlin.RunScratch</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+W'</ShortCut>
+          <Description>Run Kotlin Scratch</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Save All">
