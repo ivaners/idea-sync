@@ -142,7 +142,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'UserApplication'</Description>
-          <Count>137</Count>
+          <Count>139</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'V002_PostgreSQL监听发布订阅实现Application'">
@@ -182,7 +182,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2078</Count>
+          <Count>2084</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -446,7 +446,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>542</Count>
+          <Count>543</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -889,6 +889,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Test测试.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Test测试.main()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ThreadPoolTaskExecut...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1023,6 +1031,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V01_创建小区.main()'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'V01_已通过审核自助授权_....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'V01_已通过审核自助授权_....main()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V01_户籍统计_区县统计.main()'">
@@ -1191,6 +1207,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V02_第三方接口_设备报警....main()'</Description>
           <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'V02_自助授权审核通过_T....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'V02_自助授权审核通过_T....main()'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V02_身份证件登记用户Te....main()'">
@@ -1374,7 +1398,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V07_APP自助授权提交_....main()'</Description>
-          <Count>26</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V07_异步服务测试Applicatio...'">
@@ -1910,7 +1934,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'UserApplication'</Description>
-          <Count>121</Count>
+          <Count>122</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'V002_PostgreSQL监听发布订阅实现Application'">
@@ -2094,7 +2118,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>135</Count>
+          <Count>136</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
