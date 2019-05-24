@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>58</Count>
+          <Count>61</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AdminApplication'">
@@ -470,7 +470,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>36</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AdminApplication'">
@@ -502,7 +502,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'Application.main()'</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BeanStalkClien....main()'">
@@ -582,7 +582,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'DeviceApplicat....main()'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DeviceApplication'">
@@ -678,7 +678,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'FlowApplication.main()'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'GrtJsonUtils.main()'">
@@ -710,7 +710,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'HouseApplication.main()'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'HttpClientUtil.main()'">
@@ -1030,7 +1030,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V01_UserSessio....main()'</Description>
-          <Count>104</Count>
+          <Count>105</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V01_创建小区.main()'">
@@ -1334,7 +1334,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V04_用户管理_登记用户_....main()'</Description>
-          <Count>2</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V05_Aliyun_OSS....main()'">
@@ -2134,7 +2134,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>146</Count>
+          <Count>147</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
