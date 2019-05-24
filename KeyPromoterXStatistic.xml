@@ -190,7 +190,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2119</Count>
+          <Count>2126</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -1519,6 +1519,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V09_登记用户_第三方接口文档.main()'</Description>
           <Count>26</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'V09_运营平台_上传图片到....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'V09_运营平台_上传图片到....main()'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V09用户登记列表查询Tes....main()'">
