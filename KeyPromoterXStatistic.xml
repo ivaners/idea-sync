@@ -150,7 +150,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'UserApplication'</Description>
-          <Count>144</Count>
+          <Count>145</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'V002_PostgreSQL监听发布订阅实现Application'">
@@ -1030,7 +1030,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V01_UserSessio....main()'</Description>
-          <Count>101</Count>
+          <Count>104</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V01_创建小区.main()'">
@@ -1327,6 +1327,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V04_用户开卡授权_未选择....main()'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'V04_用户管理_登记用户_....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'V04_用户管理_登记用户_....main()'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V05_Aliyun_OSS....main()'">
@@ -1958,7 +1966,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'V01_UserSessionIdLoginAndTokenGet'</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'V01_模板热部署'">
