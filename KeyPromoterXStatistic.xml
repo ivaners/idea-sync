@@ -190,7 +190,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2111</Count>
+          <Count>2117</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -575,6 +575,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'DemoFileUpload....main()'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DemoResponseVo.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'DemoResponseVo.main()'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DemoVo.main()'">
@@ -1807,6 +1815,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'DemoFileUploadTestMain'</Description>
           <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DemoResponseVo'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'DemoResponseVo'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DeviceApplication'">
