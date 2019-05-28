@@ -462,7 +462,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>565</Count>
+          <Count>566</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1718,7 +1718,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V22_天翔光明需求批量修改....main()'</Description>
-          <Count>17</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V22_天翔光明需求批量修改楼栋编码和房...'">
@@ -2174,7 +2174,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'V22_天翔光明需求批量修改楼栋编码和房屋编码Application'</Description>
-          <Count>28</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'WebSockeServiceTest'">
@@ -2262,7 +2262,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>75</Count>
+          <Count>77</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
