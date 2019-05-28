@@ -190,7 +190,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2184</Count>
+          <Count>2189</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -1718,7 +1718,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V22_天翔光明需求批量修改....main()'</Description>
-          <Count>20</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V22_天翔光明需求批量修改楼栋编码和房...'">
@@ -2174,7 +2174,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'V22_天翔光明需求批量修改楼栋编码和房屋编码Application'</Description>
-          <Count>31</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'WebSockeServiceTest'">
