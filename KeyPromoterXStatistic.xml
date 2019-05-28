@@ -462,7 +462,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>559</Count>
+          <Count>560</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1697,12 +1697,28 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'V21_天翔光明需求批量修改楼栋编码和房...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'V21_天翔光明需求批量修改楼栋编码和房...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'V21_视频监控_录像设备配....main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V21_视频监控_录像设备配....main()'</Description>
           <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'V22_天翔光明需求批量修改楼栋编码和房...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'V22_天翔光明需求批量修改楼栋编码和房...'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V42房东卡列表查询Test....main()'">
