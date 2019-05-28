@@ -150,7 +150,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'UserApplication'</Description>
-          <Count>148</Count>
+          <Count>149</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'V002_PostgreSQL监听发布订阅实现Application'">
@@ -1062,7 +1062,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V01_UserSessio....main()'</Description>
-          <Count>110</Count>
+          <Count>111</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V01_创建小区.main()'">
@@ -1350,7 +1350,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V04_已搬走_用户列表_查询.main()'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V04_用户开卡授权_已选择....main()'">
@@ -2190,7 +2190,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>150</Count>
+          <Count>151</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
