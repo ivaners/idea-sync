@@ -190,7 +190,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2231</Count>
+          <Count>2233</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -1454,7 +1454,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V07_APP自助授权提交_....main()'</Description>
-          <Count>45</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V07_异步服务测试Applicatio...'">
@@ -1630,7 +1630,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V12_APP接口组_新用户....main()'</Description>
-          <Count>14</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V12_公有云同步_新建房间.main()'">
