@@ -6,7 +6,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'Ctrl+Alt+A'</ShortCut>
           <Description>Add</Description>
-          <Count>91</Count>
+          <Count>92</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -142,7 +142,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'RedisApplication'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ThreadPoolTaskExecutorTestApplication'">
@@ -158,7 +158,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'UserApplication'</Description>
-          <Count>150</Count>
+          <Count>152</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'V002_PostgreSQL监听发布订阅实现Application'">
@@ -198,7 +198,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2322</Count>
+          <Count>2338</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -486,7 +486,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>570</Count>
+          <Count>575</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -494,7 +494,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>91</Count>
+          <Count>92</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -910,7 +910,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'RedisApplication.main()'</Description>
-          <Count>21</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RedisTool.main()'">
@@ -918,7 +918,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'RedisTool.main()'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Slf4jLoggerApplication'">
@@ -1134,7 +1134,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V01_UserSessio....main()'</Description>
-          <Count>116</Count>
+          <Count>117</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V01_创建小区.main()'">
@@ -1526,7 +1526,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V07_APP自助授权提交_....main()'</Description>
-          <Count>55</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V07_异步服务测试Applicatio...'">
@@ -1702,7 +1702,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V12_APP接口组_新用户....main()'</Description>
-          <Count>50</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V12_公有云同步_新建房间.main()'">
@@ -2054,7 +2054,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'RedisApplication'</Description>
-          <Count>26</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RedisTool'">
@@ -2062,7 +2062,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'RedisTool'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SpiderApplication (1)'">
@@ -2134,7 +2134,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'V01_UserSessionIdLoginAndTokenGet'</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'V01_模板热部署'">
@@ -2223,6 +2223,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'V10_查看授权时间_AppendCheck'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'V12_APP接口组_新用户授权接口调用_新增授权_接口调用_V168'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'V12_APP接口组_新用户授权接口调用_新增授权_接口调用_V168'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'V13访客留影记录查询TestCase'">
