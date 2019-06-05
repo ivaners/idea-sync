@@ -2129,6 +2129,14 @@
           <Count>30</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'SpringTxApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SpringTxApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'TestFrameworkApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2174,7 +2182,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'V002_PostgreSQL监听发布订阅实现Application'</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'V01_UserSessionIdLoginAndTokenGet'">
