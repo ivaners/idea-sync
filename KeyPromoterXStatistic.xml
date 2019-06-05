@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>71</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AdminApplication'">
@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'PostGreSqlApplication'</Description>
-          <Count>38</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'RedisApplication'">
@@ -198,7 +198,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2429</Count>
+          <Count>2434</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -494,7 +494,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>582</Count>
+          <Count>589</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -510,7 +510,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>42</Count>
+          <Count>43</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AdminApplication'">
@@ -902,7 +902,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'PostGreSqlApplication'</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RedisApplication'">
@@ -2094,7 +2094,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'PostGreSqlApplication'</Description>
-          <Count>53</Count>
+          <Count>58</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RedisApplication'">
