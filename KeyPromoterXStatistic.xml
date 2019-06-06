@@ -6,7 +6,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'Ctrl+Alt+A'</ShortCut>
           <Description>Add</Description>
-          <Count>111</Count>
+          <Count>112</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -46,7 +46,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Relative Path">
@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'PostGreSqlApplication'</Description>
-          <Count>50</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'RedisApplication'">
@@ -158,7 +158,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'UserApplication'</Description>
-          <Count>177</Count>
+          <Count>179</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'V002_PostgreSQL监听发布订阅实现Application'">
@@ -198,7 +198,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2470</Count>
+          <Count>2487</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -494,7 +494,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>595</Count>
+          <Count>600</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -502,7 +502,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>102</Count>
+          <Count>103</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -1046,7 +1046,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V001_BranchTes....main()'</Description>
-          <Count>15</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V001_出入记录_视频截图接口.main()'">
@@ -1142,7 +1142,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V01_DoorDu_Ser....main()'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V01_Test.main()'">
@@ -2110,7 +2110,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'PostGreSqlApplication'</Description>
-          <Count>60</Count>
+          <Count>71</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RedisApplication'">
@@ -2190,7 +2190,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'V001_BranchTestCase_光明新授权记录_重复场景Test'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'V001_出入记录_视频截图接口'">
@@ -2414,7 +2414,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>171</Count>
+          <Count>173</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -2454,7 +2454,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>78</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
