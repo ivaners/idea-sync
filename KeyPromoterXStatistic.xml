@@ -217,6 +217,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Find in Path...">
+        <Item>
+          <IdeaActionID>FindInPath</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F'</ShortCut>
+          <Description>Find in Path...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Hide All Windows">
         <Item>
           <IdeaActionID>HideAllWindows</IdeaActionID>
@@ -775,6 +783,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'GrtJsonUtils.main()'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'GrtTestApplication'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'GrtTestApplication'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'GrtWebAdminApp....main()'">
@@ -2086,6 +2102,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'GrtGameWebApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'GrtTestApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'GrtTestApplication'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
