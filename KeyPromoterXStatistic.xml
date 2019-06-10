@@ -153,6 +153,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'TestHuaDuUploadDataConfiguration.sendData'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'TestHuaDuUploadDataConfiguration.sendData'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'ThreadPoolTaskExecutorTestApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -206,7 +214,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2528</Count>
+          <Count>2538</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -510,7 +518,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>655</Count>
+          <Count>670</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1977,6 +1985,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'sendData()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'sendData()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'slf4jLoggerTest()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2201,6 +2217,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Rerun Failed Tests'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Rerun Failed Tests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'SpiderApplication (1)'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2231,6 +2255,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'TestFrameworkApplication'</Description>
           <Count>88</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'TestHuaDuUploadDataConfiguration'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'TestHuaDuUploadDataConfiguration'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ThreadPoolTaskExecutorTestApplication'">
@@ -2526,7 +2558,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>85</Count>
+          <Count>86</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
