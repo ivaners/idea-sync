@@ -25,6 +25,14 @@
           <Count>41</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Commit...">
+        <Item>
+          <IdeaActionID>CheckinProject</IdeaActionID>
+          <ShortCut>'Ctrl+K'</ShortCut>
+          <Description>Commit...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Compare">
         <Item>
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
@@ -198,7 +206,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2506</Count>
+          <Count>2508</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
