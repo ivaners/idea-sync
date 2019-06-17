@@ -73,7 +73,7 @@
     </context>
   </template>
   <template name="this_cur_class" value="$CURRENT_CLASS$.class" description="输出当前类名称.class" toReformat="false" toShortenFQNames="true">
-    <variable name="CURRENT_CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CURRENT_CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
