@@ -16,6 +16,7 @@
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="20190422" type="PLAIN_TEXT" />
       <mapping pattern="ifcfg-ens33" type="PLAIN_TEXT" />
+      <mapping pattern="★没有好的想法的时候，就把自己锻炼好，给别人的想法提供支撑★" type="PLAIN_TEXT" />
       <mapping pattern="没有好的想法的时候，就把自己锻炼好，给别人的想法提供支撑" type="PLAIN_TEXT" />
       <mapping pattern="postgres-触发器创建" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
