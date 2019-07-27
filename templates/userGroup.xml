@@ -22,7 +22,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="log_slf4j" value="private static org.slf4j.Logger logger = org.slf4j.LoggerFactory.getLogger($CURRENT_CLASS$.class.getName());" description="logger日志对象" toReformat="false" toShortenFQNames="true">
+  <template name="lt_log_slf4j" value="private static org.slf4j.Logger logger = org.slf4j.LoggerFactory.getLogger($CURRENT_CLASS$.class.getName());" description="logger日志对象" toReformat="false" toShortenFQNames="true">
     <variable name="CURRENT_CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
@@ -44,7 +44,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="springboot_run" value="&#10;&#10;public static void main(String[] args) {&#10;    SpringApplication.run($CURRENT_CLASS$.class, args);&#10;}" description="springBoot方式启动main" toReformat="false" toShortenFQNames="true">
+  <template name="lt_springboot_run" value="&#10;&#10;public static void main(String[] args) {&#10;    SpringApplication.run($CURRENT_CLASS$.class, args);&#10;}" description="springBoot方式启动main" toReformat="false" toShortenFQNames="true">
     <variable name="CURRENT_CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
@@ -62,12 +62,12 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="user_method_endtime" value="long endTime = System.currentTimeMillis();&#10;&#10;double seconds = (endTime - beginTime) / 1000.00;&#10;logger.warn(&quot;$END$接口耗时:[&quot; + seconds + &quot;]秒~&quot;);" description="打印接口耗时-endtime" toReformat="false" toShortenFQNames="true">
+  <template name="lt_user_method_endtime" value="long endTime = System.currentTimeMillis();&#10;&#10;double seconds = (endTime - beginTime) / 1000.00;&#10;logger.warn(&quot;$END$接口耗时:[&quot; + seconds + &quot;]秒~&quot;);" description="打印接口耗时-endtime" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="user_method_begintime" value="long beginTime = System.currentTimeMillis();" description="打印接口耗时-begintime" toReformat="false" toShortenFQNames="true">
+  <template name="lt_user_method_begintime" value="long beginTime = System.currentTimeMillis();" description="打印接口耗时-begintime" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
