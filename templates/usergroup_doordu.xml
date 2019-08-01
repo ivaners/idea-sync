@@ -9,11 +9,6 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_doordu_resultdata_all" value="ResultData&lt;String&gt; resultData = new ResultData&lt;&gt;(ResultCode.ERROR_OPERATE);&#10;try{&#10;&#10;}catch (Exception ex){&#10;    logger.error(&quot;&quot;,ex);&#10;}&#10;&#10;String error = &quot;操作失败&quot;;&#10;resultData.setMsg(error);&#10;resultData.setDesc(error);&#10;&#10;return resultData;" description="多度接口_接口返回值构建_ALL" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_CODE" value="true" />
-    </context>
-  </template>
   <template name="lt_doordu_controller" value="try {&#10;            ResultData&lt;String&gt; resultData = $CURR_LOCATION$&#10;&#10;            if (resultData == null || !ResultCode.RESPONSE_SUCCESS.equals(resultData.getCode())) {&#10;                return error(resultData.getCode(), ResultCode.errmap.get(resultData.getCode()),&#10;                        resultData.getDesc());&#10;            }&#10;            return ok(resultData.getData(), &quot;操作成功&quot;);&#10;        } catch (BusinessException ex) {&#10;            logger.error(&quot;&quot;, ex);&#10;&#10;            return error(ResultCode.ERROR_OPERATE, ResultCode.errmap.get(ResultCode.ERROR_OPERATE),&#10;                    ex.getMessage());&#10;        } catch (Exception ex) {&#10;            logger.error(&quot;&quot;, ex);&#10;&#10;            return defaultError(ex);&#10;        }" description="controller层请求代码模板" toReformat="false" toShortenFQNames="true">
     <variable name="CURR_LOCATION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
