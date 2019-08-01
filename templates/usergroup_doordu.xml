@@ -14,4 +14,10 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="lt_doordu_controller" value="try {&#10;            ResultData&lt;String&gt; resultData = $CURR_LOCATION$&#10;&#10;            if (resultData == null || !ResultCode.RESPONSE_SUCCESS.equals(resultData.getCode())) {&#10;                return error(resultData.getCode(), ResultCode.errmap.get(resultData.getCode()),&#10;                        resultData.getDesc());&#10;            }&#10;            return ok(resultData.getData(), &quot;操作成功&quot;);&#10;        } catch (BusinessException ex) {&#10;            logger.error(&quot;&quot;, ex);&#10;&#10;            return error(ResultCode.ERROR_OPERATE, ResultCode.errmap.get(ResultCode.ERROR_OPERATE),&#10;                    ex.getMessage());&#10;        } catch (Exception ex) {&#10;            logger.error(&quot;&quot;, ex);&#10;&#10;            return defaultError(ex);&#10;        }" description="controller层请求代码模板" toReformat="false" toShortenFQNames="true">
+    <variable name="CURR_LOCATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
