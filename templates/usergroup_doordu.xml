@@ -21,7 +21,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_doordu_resultdata_fail" value="String errorMsg = &quot;$CURR_LOCATION$&quot;;&#10;resultData.setCode(ResultCode.RESPONSE_INTRANET_ERROR);&#10;resultData.setMsg(errorMsg);&#10;resultData.setDesc(errorMsg);" description="多度接口_接口返回值构建" toReformat="false" toShortenFQNames="true">
+  <template name="lt_doordu_resultdata_fail" value="String errorMsg = &quot;$CURR_LOCATION$&quot;;&#10;&#10;resultData.setCode(ResultCode.RESPONSE_INTRANET_ERROR);&#10;resultData.setMsg(errorMsg);&#10;resultData.setDesc(errorMsg);&#10;&#10;return resultData;" description="多度接口_接口返回值构建" toReformat="false" toShortenFQNames="true">
     <variable name="CURR_LOCATION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
