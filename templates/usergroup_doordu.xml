@@ -15,4 +15,16 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="lt_doordu_controller_fail" value="String errorMsg = &quot;$CURR_LOCATIONO$&quot;;&#10;return error(ResultCode.ERROR_DATA_PARAM, errorMsg, errorMsg);" description="controller层失败提示-模板" toReformat="false" toShortenFQNames="true">
+    <variable name="CURR_LOCATIONO" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_doordu_resultdata_fail" value="String errorMsg = &quot;$CURR_LOCATION$&quot;;&#10;resultData.setCode(ResultCode.RESPONSE_INTRANET_ERROR);&#10;resultData.setMsg(errorMsg);&#10;resultData.setDesc(errorMsg);" description="多度接口_接口返回值构建" toReformat="false" toShortenFQNames="true">
+    <variable name="CURR_LOCATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
