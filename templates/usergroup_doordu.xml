@@ -27,4 +27,10 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="lt_doordu_resultdata_succ" value="String succ = &quot;$CURR_LOCATION$&quot;;&#10;&#10;resultData.setCode(ResultCode.RESPONSE_SUCCESS);&#10;resultData.setMsg(succ);&#10;resultData.setDesc(succ);&#10;&#10;return resultData;" description="多度接口_接口返回值构建" toReformat="false" toShortenFQNames="true">
+    <variable name="CURR_LOCATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
