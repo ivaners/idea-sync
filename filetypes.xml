@@ -5,12 +5,13 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern="CentOS Docker 安装" type="PLAIN_TEXT" />
+      <mapping pattern="SpringBoot-Tomcat启动-设置配置文件加载" type="PLAIN_TEXT" />
       <mapping pattern="centos_grt_shell" type="PLAIN_TEXT" />
       <mapping pattern="ReadMe" type="PLAIN_TEXT" />
       <mapping pattern="企业模板整理" type="PLAIN_TEXT" />
-      <mapping pattern="profile" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="Postgres" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="profile" type="PLAIN_TEXT" />
       <mapping pattern="Postgres-导入导出" type="PLAIN_TEXT" />
       <mapping pattern="docker安装redis并设置密码" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />

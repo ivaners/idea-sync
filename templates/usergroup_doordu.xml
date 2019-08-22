@@ -4,7 +4,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_doordu_resultdata" value="ResultData&lt;String&gt; resultData = new ResultData&lt;&gt;(ResultCode.ERROR_OPERATE);" description="多度接口_接口返回值构建" toReformat="false" toShortenFQNames="true">
+  <template name="lt_doordu_result" value="ResultData&lt;String&gt; resultData = new ResultData&lt;&gt;(ResultCode.ERROR_OPERATE);" description="多度接口_接口返回值构建" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -21,14 +21,20 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_doordu_resultdata_fail" value="String errorMsg = &quot;$CURR_LOCATION$&quot;;&#10;&#10;resultData.setCode(ResultCode.RESPONSE_INTRANET_ERROR);&#10;resultData.setMsg(errorMsg);&#10;resultData.setDesc(errorMsg);&#10;&#10;return resultData;" description="多度接口_接口返回值构建" toReformat="false" toShortenFQNames="true">
+  <template name="lt_doordu_result_fail" value="String errorMsg = &quot;$CURR_LOCATION$&quot;;&#10;&#10;resultData.setCode(ResultCode.RESPONSE_INTRANET_ERROR);&#10;resultData.setMsg(errorMsg);&#10;resultData.setDesc(errorMsg);&#10;&#10;return resultData;" description="多度接口_接口返回值构建" toReformat="false" toShortenFQNames="true">
     <variable name="CURR_LOCATION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_doordu_resultdata_succ" value="String succ = &quot;$CURR_LOCATION$&quot;;&#10;&#10;resultData.setCode(ResultCode.RESPONSE_SUCCESS);&#10;resultData.setMsg(succ);&#10;resultData.setDesc(succ);&#10;&#10;return resultData;" description="多度接口_接口返回值构建" toReformat="false" toShortenFQNames="true">
+  <template name="lt_doordu_result_succ" value="String succ = &quot;$CURR_LOCATION$&quot;;&#10;&#10;resultData.setCode(ResultCode.RESPONSE_SUCCESS);&#10;resultData.setMsg(succ);&#10;resultData.setDesc(succ);&#10;&#10;return resultData;" description="多度接口_接口返回值构建" toReformat="false" toShortenFQNames="true">
     <variable name="CURR_LOCATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_doordu_result_comm" value="/**&#10; *@Description: 重构处理异常提示信息返回&#10; *@Param:&#10; *@return:&#10; *@Author: huaiao&#10; *@date: $CURR_DATE$&#10; */&#10;private ResultData&lt;String&gt; resultDataComm(String errorMsg) {&#10;    ResultData&lt;String&gt; resultData = new ResultData&lt;&gt;();&#10;&#10;    resultData.setCode(ResultCode.RESPONSE_INTRANET_ERROR);&#10;    resultData.setMsg(errorMsg);&#10;    resultData.setDesc(errorMsg);&#10;&#10;    return resultData;&#10;}" description="多度接口_接口返回值构建" toReformat="false" toShortenFQNames="true">
+    <variable name="CURR_DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
