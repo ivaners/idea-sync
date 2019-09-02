@@ -21,6 +21,7 @@
       <mapping pattern="docker安装redis并设置密码" type="PLAIN_TEXT" />
       <mapping pattern="20190422" type="PLAIN_TEXT" />
       <mapping pattern="Postgres-导入导出" type="PLAIN_TEXT" />
+      <mapping pattern="depIds" type="PLAIN_TEXT" />
       <mapping pattern="★没有好的想法的时候，就把自己锻炼好，给别人的想法提供支撑★" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
