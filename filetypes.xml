@@ -26,6 +26,7 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="bashrc" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="6" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
