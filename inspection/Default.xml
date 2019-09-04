@@ -135,6 +135,7 @@
   <inspection_tool class="CucumberTableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CucumberUndefinedStep" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="DelegatesTo" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="Duplicates" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="EmptyEventHandler" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="GWTRemoteServiceAsyncCheck" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="GWTStyleCheck" enabled="false" level="ERROR" enabled_by_default="false" />
