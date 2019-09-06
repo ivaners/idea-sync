@@ -2177,6 +2177,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'HttpFormatApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'HttpFormatApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'HuaDuUploadTestCase'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
