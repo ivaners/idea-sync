@@ -409,6 +409,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Recompile 'HouseApplication.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'HouseApplication.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Recompile 'RedisApplication.java'">
         <Item>
           <IdeaActionID>Compile</IdeaActionID>
@@ -534,7 +542,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>44</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AdminApplication'">
@@ -574,6 +582,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'ArtemisMethodT....main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Base64Utils.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Base64Utils.main()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -822,7 +838,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'HouseApplication.main()'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'HttpClientUtil.main()'">
@@ -2182,7 +2198,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'HouseApplication'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'HttpFormatApplication'">
