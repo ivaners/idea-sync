@@ -6,7 +6,12 @@
           <option name="url" value="http://gitee.com" />
           <option name="userName" value="huaiao_chen@163.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.doordu.com/DD_JAVA_Flow/doordu-service-root.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="D:\" />
   </component>
 </application>
