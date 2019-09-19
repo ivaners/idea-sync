@@ -214,7 +214,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2652</Count>
+          <Count>2659</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -561,6 +561,14 @@
           <Count>17</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'AliyunOssClientTestC...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'AliyunOssClientTestC...'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Application'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -703,6 +711,22 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'DeviceDoorBind....main()'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DoorduAliyunOs....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'DoorduAliyunOs....main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DoorduAliyunOssClien...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'DoorduAliyunOssClien...'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DoorduRabbitMqApplic...'">
