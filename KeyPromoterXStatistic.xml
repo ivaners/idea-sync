@@ -2065,6 +2065,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run '电信同步方案_V01_私有云....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run '电信同步方案_V01_私有云....main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run Kotlin Scratch">
         <Item>
           <IdeaActionID>Kotlin.RunScratch</IdeaActionID>
