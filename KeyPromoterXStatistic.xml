@@ -2057,6 +2057,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Service">
+        <Item>
+          <IdeaActionID>Toolkit.GotoService</IdeaActionID>
+          <ShortCut>'Ctrl+\' or 'Ctrl+Alt+N'</ShortCut>
+          <Description>Service</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Settings...">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>
