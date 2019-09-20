@@ -10,12 +10,12 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.properties</mask>
     <mask>*Mapper.java</mask>
     <mask>pom.xml</mask>
     <mask>*Vo*.java</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.properties</mask>
     <mask>*.*</mask>
   </component>
 </application>
