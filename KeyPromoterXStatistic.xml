@@ -214,7 +214,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2659</Count>
+          <Count>2670</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -526,7 +526,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>672</Count>
+          <Count>675</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -718,7 +718,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'DoorduAliyunOs....main()'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DoorduAliyunOssClien...'">
@@ -1297,6 +1297,14 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'V01_新增人脸库_接口Te....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'V01_新增人脸库_接口Te....main()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'V01_新疆自动登记身份证_....main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1567,6 +1575,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V04_APP接口_自助授权....main()'</Description>
           <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'V04_人脸库接口_resp....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'V04_人脸库接口_resp....main()'</Description>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V04_多线程调用_压测登记用户.main()'">
@@ -2471,6 +2487,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'V03_webmvc文件上传Application'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'V04_人脸库接口_responseBody_ConvertToJSON'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'V04_人脸库接口_responseBody_ConvertToJSON'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'V04_多线程调用_压测登记用户'">
