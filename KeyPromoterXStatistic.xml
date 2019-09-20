@@ -214,7 +214,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2689</Count>
+          <Count>2693</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -2454,6 +2454,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'V01_模板热部署'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'V01_用户SessionId登录和Token获取_DoorDuLogin'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'V01_用户SessionId登录和Token获取_DoorDuLogin'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
