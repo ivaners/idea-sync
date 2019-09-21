@@ -105,6 +105,14 @@
           <Count>16</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'CenterApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'CenterApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'DemoVo'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -214,7 +222,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2792</Count>
+          <Count>2807</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -542,7 +550,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>686</Count>
+          <Count>689</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -558,7 +566,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>46</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AdminApplication'">
@@ -590,7 +598,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Application'</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Application.main()'">
@@ -598,7 +606,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'Application.main()'</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ArtemisMethodT....main()'">
@@ -655,6 +663,22 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'CaptureApplication'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CenterApplicat....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'CenterApplicat....main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CenterApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'CenterApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DDLoggerTest.main()'">
@@ -1606,7 +1630,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V03_登记手机号码和身份证....main()'</Description>
-          <Count>2</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V03_登记用户_身份证.main()'">
@@ -2081,6 +2105,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'V23_物管账号创建_调用伴....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'V23_物管账号创建_调用伴....main()'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'V42房东卡列表查询Test....main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2206,7 +2238,7 @@
           <IdeaActionID>SaveAll</IdeaActionID>
           <ShortCut>'Ctrl+S'</ShortCut>
           <Description>Save All</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Service">
@@ -2742,7 +2774,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>193</Count>
+          <Count>197</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
