@@ -70,7 +70,7 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -214,7 +214,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2760</Count>
+          <Count>2762</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -542,7 +542,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>680</Count>
+          <Count>683</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1350,7 +1350,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V01_用户SessionI....main()'</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V01_电信_人脸照片_新增....main()'">
@@ -1366,7 +1366,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V01_登记手机号码用户.main()'</Description>
-          <Count>9</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V01_登记用户.main()'">
@@ -2702,7 +2702,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>189</Count>
+          <Count>192</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -2750,7 +2750,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>89</Count>
+          <Count>90</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
