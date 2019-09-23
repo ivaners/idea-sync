@@ -222,7 +222,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2814</Count>
+          <Count>2815</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -550,7 +550,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>691</Count>
+          <Count>692</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1337,6 +1337,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'V01_OpenApi_物管....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'V01_OpenApi_物管....main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'V01_Test.main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1382,7 +1390,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V01_房屋管理_物管账号管....main()'</Description>
-          <Count>5</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V01_新增人脸库_接口Te....main()'">
@@ -1558,7 +1566,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V02_房屋管理_物管账号管....main()'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V02_用户列表_查询.main()'">
