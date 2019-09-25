@@ -230,7 +230,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2865</Count>
+          <Count>2866</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -561,6 +561,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'V099_测试Dubbo'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'V099_测试Dubbo'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Restore Windows">
         <Item>
           <IdeaActionID>HideAllWindows</IdeaActionID>
@@ -574,7 +582,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>705</Count>
+          <Count>708</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2017,6 +2025,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'V099_测试Dubbo.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'V099_测试Dubbo.main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'V09_接口组_删除用户_C....main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2638,7 +2654,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'PostGreSqlApplication'</Description>
-          <Count>80</Count>
+          <Count>87</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RedisApplication'">
@@ -2873,6 +2889,14 @@
           <Count>25</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'V099_测试Dubbo'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'V099_测试Dubbo'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'V10_查看授权时间_AppendCheck'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -3022,7 +3046,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>95</Count>
+          <Count>98</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
