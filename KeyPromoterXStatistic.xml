@@ -230,7 +230,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2866</Count>
+          <Count>2867</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -1809,6 +1809,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'V04_多度DoorDu_社....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'V04_多度DoorDu_社....main()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'V04_多线程调用_压测登记用户.main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2062,7 +2070,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V09_运营平台_上传图片到....main()'</Description>
-          <Count>6</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V09用户登记列表查询Tes....main()'">
