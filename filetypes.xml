@@ -31,6 +31,7 @@
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="6" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
+      <mapping ext="lck" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
