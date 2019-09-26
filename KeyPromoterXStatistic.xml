@@ -230,7 +230,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2905</Count>
+          <Count>2906</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -1254,7 +1254,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'SpringBootWarJ....main()'</Description>
-          <Count>12</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SpringBootWarJtaJdbc...'">
@@ -2497,6 +2497,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Scratch File">
+        <Item>
+          <IdeaActionID>NewScratchFile</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+Insert'</ShortCut>
+          <Description>Scratch File</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Service">
         <Item>
           <IdeaActionID>Toolkit.GotoService</IdeaActionID>
@@ -2830,7 +2838,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'SpringBootWarJtaJdbcApplication'</Description>
-          <Count>8</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SpringConfigApplication'">
