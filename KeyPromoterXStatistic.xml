@@ -1265,6 +1265,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'SpringJtaJdbcApplica...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'SpringJtaJdbcApplica...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Test.main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2807,6 +2815,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'SpringConfigApplication'</Description>
           <Count>30</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SpringJtaJdbcApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SpringJtaJdbcApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SpringTxApplication'">
