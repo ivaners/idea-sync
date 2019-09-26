@@ -17,6 +17,7 @@
       <mapping pattern="SpringBoot-Tomcat启动-设置配置文件加载" type="PLAIN_TEXT" />
       <mapping pattern="device_entrance_card" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping pattern="!!!!!!!!!!开源版atomikos不支持多线程模式" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="postgres-触发器创建" type="PLAIN_TEXT" />
       <mapping pattern="profile" type="PLAIN_TEXT" />
