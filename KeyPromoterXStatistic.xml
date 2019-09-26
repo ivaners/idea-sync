@@ -230,7 +230,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2890</Count>
+          <Count>2891</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -686,7 +686,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'AtomikosJtaApplicati...'</Description>
-          <Count>21</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AtomikosJtaApplication'">
@@ -1209,6 +1209,22 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ServiceAdminSpringBo...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'ServiceAdminSpringBo...'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ServiceAdminSpringBoot'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'ServiceAdminSpringBoot'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Slf4jLoggerApplication'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1351,14 +1367,6 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'V001_出入记录_视频截图接口.main()'</Description>
           <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'V001_多线程测试atom....main()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
-          <Description>Run 'V001_多线程测试atom....main()'</Description>
-          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'V001_多线程测试atomikos转账场景'">
@@ -2534,7 +2542,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'AtomikosJtaApplication'</Description>
-          <Count>67</Count>
+          <Count>70</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AtomikosJtaApplicationTests'">
@@ -2759,6 +2767,22 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Rerun Failed Tests'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ServiceAdminSpringBoot'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ServiceAdminSpringBoot'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ServiceAdminSpringBootApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ServiceAdminSpringBootApplication'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SpiderApplication (1)'">
@@ -3221,6 +3245,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'TryCatchExcept....main()'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'V001_多线程测试atom....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'V001_多线程测试atom....main()'</Description>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
