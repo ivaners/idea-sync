@@ -1433,6 +1433,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'V001_楼长管理_提交申请....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'V001_楼长管理_提交申请....main()'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'V001_用户登记_新网智能....main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
