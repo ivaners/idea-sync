@@ -1681,6 +1681,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'V01多度科技短信发送Tes....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'V01多度科技短信发送Tes....main()'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'V01抓拍记录TestCase.main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
