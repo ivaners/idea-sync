@@ -60,5 +60,6 @@ Host git@gitee.com
 -Dfile.encoding=UTF-8
 # 设置抗锯齿
 -Dawt.useSystemAAFontSettings=on
+-Dide.run.dashboard=true
 ```
 
