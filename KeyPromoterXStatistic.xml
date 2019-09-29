@@ -230,7 +230,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2957</Count>
+          <Count>2960</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -263,6 +263,14 @@
           <ShortCut>'Alt+8'</ShortCut>
           <Description>Hierarchy</Description>
           <Count>35</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Messages">
+        <Item>
+          <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
+          <ShortCut>'Alt+0'</ShortCut>
+          <Description>Messages</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Module Settings">
@@ -553,6 +561,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun">
+        <Item>
+          <IdeaActionID>RunDashboard.Run</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Rerun</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'AdminApplication'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -662,7 +678,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>58</Count>
+          <Count>69</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ActiveMqProducer.main()'">
@@ -750,7 +766,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'AtomikosJtaApplication'</Description>
-          <Count>52</Count>
+          <Count>61</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Base64Utils.main()'">
@@ -1238,7 +1254,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'PostGreSqlApplicatio...'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PostGreSqlApplication'">
@@ -1286,7 +1302,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'ServiceAdminSpringBo...'</Description>
-          <Count>4</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ServiceAdminSpringBoot'">
@@ -2694,7 +2710,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>10</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AdminApplication'">
@@ -2734,7 +2750,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'AtomikosJtaApplication'</Description>
-          <Count>89</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AtomikosJtaApplicationTests'">
@@ -2974,7 +2990,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ServiceAdminSpringBootApplication'</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SpiderApplication (1)'">
@@ -3078,7 +3094,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'V001_多线程测试atomikos转账场景'</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'V002_PostMan_发送楼长提交自助申请'">
@@ -3318,7 +3334,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>218</Count>
+          <Count>219</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
