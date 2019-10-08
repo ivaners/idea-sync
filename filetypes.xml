@@ -1,6 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;./idea;.DS_Store;.git;.git-rewrite;.gradle;.hg;.idea;.settings;.svn;CVS;__pycache__;_svn;build;docker-springboot;grt-find-job;grt-qbb;grt-spring-cloud;grt-web-admin;grt-web-front;lucene;out;target;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;./idea;.DS_Store;.git;.git-rewrite;.gradle;.hg;.idea;.settings;.svn;CVS;__pycache__;_svn;build;docker-springboot;grt-find-job;grt-qbb;grt-spring-cloud;lucene;out;target;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="ReadMe" type="PLAIN_TEXT" />
