@@ -26,6 +26,7 @@
       <mapping pattern="centos_grt_shell" type="PLAIN_TEXT" />
       <mapping pattern="ifcfg-ens33" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="6" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
