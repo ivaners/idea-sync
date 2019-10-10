@@ -1,5 +1,6 @@
 <application>
   <component name="ConfigState">
+    <option name="fineTune" value="正常使用插件时，额外参数请不要填写内容" />
     <option name="macUUID" value="fafd3a26-33eb-4bc6-b8ba-0c7e2decbfbf" />
   </component>
 </application>
