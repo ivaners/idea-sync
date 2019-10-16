@@ -13,8 +13,8 @@
     <mask>*Mapper.java</mask>
     <mask>pom.xml</mask>
     <mask>*Vo*.java</mask>
-    <mask>*.properties</mask>
     <mask>*Mapper.xml</mask>
+    <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.*</mask>
