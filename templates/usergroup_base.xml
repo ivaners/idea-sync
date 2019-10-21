@@ -33,12 +33,12 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_user_method_endtime" value="long endTime = System.currentTimeMillis();&#10;&#10;double seconds = (endTime - beginTime) / 1000.00;&#10;logger.warn(&quot;$END$接口耗时:[&quot; + seconds + &quot;]秒~&quot;);" description="打印接口耗时-endtime" toReformat="false" toShortenFQNames="true">
+  <template name="lt_endtime" value="long endTime = System.currentTimeMillis();&#10;double seconds = (endTime - beginTime) / 1000.00;&#10;&#10;logger.warn(&quot;$END$接口耗时:{}秒~&quot;,seconds);" description="打印接口耗时-endtime" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_user_method_begintime" value="long beginTime = System.currentTimeMillis();" description="打印接口耗时-begintime" toReformat="false" toShortenFQNames="true">
+  <template name="lt_begintime" value="$END$long beginTime = System.currentTimeMillis();" description="打印接口耗时-begintime" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
