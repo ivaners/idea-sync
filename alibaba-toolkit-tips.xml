@@ -2,6 +2,7 @@
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
     <entry projectName="grt" firstStartUp="false" />
+    <entry projectName="ms-comm-service" firstStartUp="false" />
     <entry projectName="service-root" firstStartUp="false" />
   </component>
 </application>
