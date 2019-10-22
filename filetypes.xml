@@ -3,37 +3,35 @@
     <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;./idea;.DS_Store;.git;.git-rewrite;.gradle;.hg;.idea;.settings;.svn;CVS;__pycache__;_svn;build;docker-springboot;grt-find-job;grt-spring-cloud-all;lucene;out;target;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="ReadMe" type="PLAIN_TEXT" />
-      <mapping pattern="SpringBoot-Tomcat启动-设置配置文件加载" type="PLAIN_TEXT" />
-      <mapping pattern="CNAME" type="PLAIN_TEXT" />
-      <mapping pattern="readme" type="PLAIN_TEXT" />
-      <mapping pattern="profile" type="PLAIN_TEXT" />
-      <mapping pattern="centos_grt_shell" type="PLAIN_TEXT" />
-      <mapping pattern="postgres-触发器创建" type="PLAIN_TEXT" />
-      <mapping pattern="CentOS Docker 安装" type="PLAIN_TEXT" />
-      <mapping pattern="device_entrance_card" type="PLAIN_TEXT" />
-      <mapping pattern="!!!!!!!!!!!!!!!!!!!!!!--dubbo多注册中心" type="PLAIN_TEXT" />
-      <mapping pattern="没有好的想法的时候，就把自己锻炼好，给别人的想法提供支撑" type="PLAIN_TEXT" />
       <mapping pattern="gb" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="Postgres-导入导出" type="PLAIN_TEXT" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
+      <mapping pattern="CentOS Docker 安装" type="PLAIN_TEXT" />
+      <mapping pattern="SpringBoot-Tomcat启动-设置配置文件加载" type="PLAIN_TEXT" />
+      <mapping pattern="centos_grt_shell" type="PLAIN_TEXT" />
+      <mapping pattern="device_entrance_card" type="PLAIN_TEXT" />
+      <mapping pattern="ReadMe" type="PLAIN_TEXT" />
       <mapping pattern="企业模板整理" type="PLAIN_TEXT" />
-      <mapping pattern="ifcfg-ens33" type="PLAIN_TEXT" />
-      <mapping pattern="docker安装redis并设置密码" type="PLAIN_TEXT" />
-      <mapping pattern="20190422" type="PLAIN_TEXT" />
-      <mapping pattern="★没有好的想法的时候，就把自己锻炼好，给别人的想法提供支撑★" type="PLAIN_TEXT" />
-      <mapping pattern="!!!!!!!!!!开源版atomikos不支持多线程模式" type="PLAIN_TEXT" />
-      <mapping pattern="depIds" type="PLAIN_TEXT" />
+      <mapping pattern="!!!!!!!!!!!!!!!!!!!!!!--dubbo多注册中心" type="PLAIN_TEXT" />
       <mapping pattern="Postgres" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="cfg" type="PLAIN_TEXT" />
-      <mapping ext="keystore" type="PLAIN_TEXT" />
-      <mapping ext="bashrc" type="PLAIN_TEXT" />
-      <mapping ext="m" type="PLAIN_TEXT" />
-      <mapping ext="service" type="PLAIN_TEXT" />
-      <mapping ext="6" type="PLAIN_TEXT" />
+      <mapping pattern="!!!!!!!!!!开源版atomikos不支持多线程模式" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="profile" type="PLAIN_TEXT" />
+      <mapping pattern="Postgres-导入导出" type="PLAIN_TEXT" />
+      <mapping pattern="docker安装redis并设置密码" type="PLAIN_TEXT" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping pattern="20190422" type="PLAIN_TEXT" />
+      <mapping pattern="ifcfg-ens33" type="PLAIN_TEXT" />
+      <mapping pattern="★没有好的想法的时候，就把自己锻炼好，给别人的想法提供支撑★" type="PLAIN_TEXT" />
+      <mapping pattern="depIds" type="PLAIN_TEXT" />
+      <mapping pattern="没有好的想法的时候，就把自己锻炼好，给别人的想法提供支撑" type="PLAIN_TEXT" />
+      <mapping pattern="postgres-触发器创建" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="lck" type="PLAIN_TEXT" />
+      <mapping ext="m" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping ext="bashrc" type="PLAIN_TEXT" />
+      <mapping ext="6" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
