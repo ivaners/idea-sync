@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="IPC_1.3.0.0" firstStartUp="false" />
     <entry projectName="doordu-service-root" firstStartUp="false" />
     <entry projectName="grt" firstStartUp="false" />
     <entry projectName="ms-comm-service" firstStartUp="false" />
