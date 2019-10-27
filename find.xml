@@ -14,9 +14,9 @@
     <mask>pom.xml</mask>
     <mask>*Vo*.java</mask>
     <mask>*Mapper.xml</mask>
-    <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.properties</mask>
     <mask>*.*</mask>
   </component>
 </application>
