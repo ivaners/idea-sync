@@ -2,6 +2,7 @@
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
     <entry projectName="IPC_1.3.0.0" firstStartUp="false" />
+    <entry projectName="V1.7.6.1" firstStartUp="false" />
     <entry projectName="cms" firstStartUp="false" />
     <entry projectName="cms-frame" firstStartUp="false" />
     <entry projectName="cms-framework" firstStartUp="false" />
@@ -10,6 +11,7 @@
     <entry projectName="huaiao-sms" firstStartUp="false" />
     <entry projectName="javaHttpNewApiDemo" firstStartUp="false" />
     <entry projectName="ms-comm-service" firstStartUp="false" />
+    <entry projectName="service-data-root" firstStartUp="false" />
     <entry projectName="service-root" firstStartUp="false" />
     <entry projectName="yunying_manage" firstStartUp="false" />
   </component>
