@@ -49,7 +49,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_endtime_sout" value="long endTime = System.currentTimeMillis();&#10;double seconds = (endTime - beginTime) / 1000.00;&#10;&#10;System.out.println(&quot;接口耗时:{&quot; + seconds + &quot;}秒~&quot;);" description="打印接口耗时-endtime" toReformat="false" toShortenFQNames="true">
+  <template name="lt_end_sout_time" value="long endTime = System.currentTimeMillis();&#10;double seconds = (endTime - beginTime) / 1000.00;&#10;&#10;System.out.println(&quot;接口耗时:{&quot; + seconds + &quot;}秒~&quot;);" description="打印接口耗时-endtime" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
