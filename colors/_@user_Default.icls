@@ -3,12 +3,30 @@
     <property name="created">2018-12-10T09:37:26</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2019-04-04T21:37:50</property>
+    <property name="modified">2019-11-28T09:33:57</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
+    <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_COPIED" value="629755" />
+    <option name="FILESTATUS_DELETED" value="6c6c6c" />
+    <option name="FILESTATUS_HIJACKED" value="" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4f575f" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_MERGED" value="9876aa" />
+    <option name="FILESTATUS_MODIFIED" value="6897bb" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="6897bb" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6897bb" />
+    <option name="FILESTATUS_OBSOLETE" value="" />
     <option name="FILESTATUS_RENAMED" value="3a8484" />
+    <option name="FILESTATUS_SWITCHED" value="" />
+    <option name="FILESTATUS_UNKNOWN" value="d1675a" />
+    <option name="FILESTATUS_addedOutside" value="629755" />
+    <option name="FILESTATUS_changelistConflict" value="d5756c" />
+    <option name="FILESTATUS_modifiedOutside" value="6897bb" />
   </colors>
   <attributes>
     <option name="TEXT">
