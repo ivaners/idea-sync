@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://redisson.org/schema/redisson/redisson.xsd" location="$USER_HOME$/.IntelliJIdea2019.2/system/extResources/75255dcc_redisson.xsd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans.xsd" location="$USER_HOME$/.IntelliJIdea2019.2/system/extResources/334543e7_spring-beans.xsd" />
+  </component>
+</application>
