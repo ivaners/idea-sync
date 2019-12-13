@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="全局框架" />
+      <item value="falsework" />
+      <item value="scaffold" />
       <item value="脚手架" />
       <item value="partner" />
       <item value="auth" />
@@ -14,8 +17,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
