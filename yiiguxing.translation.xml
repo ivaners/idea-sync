@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="child" />
+      <item value="son" />
+      <item value="子" />
+      <item value="san" />
       <item value="字符" />
       <item value="明细" />
       <item value="全局框架" />
@@ -19,8 +23,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
