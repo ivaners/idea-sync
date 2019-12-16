@@ -12,8 +12,8 @@
     <mask>*.mxml</mask>
     <mask>*Vo.java</mask>
     <mask>*.java</mask>
-    <mask>*.xml</mask>
     <mask>*.properties</mask>
+    <mask>*.xml</mask>
     <mask>*.*</mask>
   </component>
 </application>
