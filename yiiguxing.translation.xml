@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="后缀" />
       <item value="Remain" />
       <item value="认证" />
       <item value="Securet" />
@@ -31,7 +32,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="ENGLISH" value="11" />
       </map>
     </option>
   </component>
