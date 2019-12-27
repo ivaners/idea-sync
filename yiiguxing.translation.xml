@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="notice" />
       <item value="durable" />
       <item value="qc" />
       <item value="重试" />
