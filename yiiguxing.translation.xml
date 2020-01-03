@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="序列" />
       <item value="generate" />
       <item value="talk" />
       <item value="offline" />
@@ -54,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="ENGLISH" value="16" />
       </map>
     </option>
   </component>
