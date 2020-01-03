@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="talk" />
       <item value="offline" />
       <item value="notice" />
       <item value="durable" />
