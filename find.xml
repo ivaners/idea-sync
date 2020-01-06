@@ -11,10 +11,10 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*Vo.java</mask>
-    <mask>*.java</mask>
     <mask>*.yml</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
+    <mask>*.java</mask>
     <mask>*.*</mask>
   </component>
 </application>
