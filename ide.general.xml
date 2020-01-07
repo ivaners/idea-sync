@@ -9,5 +9,6 @@
     <entry key="compiler.automake.allow.when.app.running" value="true" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.tree.ui.experimental" value="false" />
+    <entry key="ide.intellij.laf.enable.animation" value="true" />
   </component>
 </application>
