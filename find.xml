@@ -13,8 +13,8 @@
     <mask>*Vo.java</mask>
     <mask>*.yml</mask>
     <mask>*.java</mask>
-    <mask>*.xml</mask>
     <mask>*.properties</mask>
+    <mask>*.xml</mask>
     <mask>*.*</mask>
   </component>
 </application>
