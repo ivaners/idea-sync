@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="method" />
+      <item value="convenience method to get this element as a {@link JsonObject}. If the element is of some * other type, a {@link IllegalStateException} will result. Hence it is best to use this method * after ensuring that this element is of the desired type by calling {@link #isJsonObject()} * first." />
       <item value="排除" />
       <item value="regexp" />
       <item value="vk" />
@@ -49,13 +51,11 @@
       <item value="全局框架" />
       <item value="falsework" />
       <item value="scaffold" />
-      <item value="脚手架" />
-      <item value="partner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
