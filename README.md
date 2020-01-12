@@ -43,23 +43,28 @@ Host git@gitee.com
 **Idea Edit Custom Vm options**
 
 ```
-# custom IntelliJ IDEA VM options
-
--Xms512m
--Xmx1500m
--XX:ReservedCodeCacheSize=500m
+-Xms2500m
+-Xmx3000m
+-XX:ReservedCodeCacheSize=0m
 -XX:+UseConcMarkSweepGC
--XX:SoftRefLRUPolicyMSPerMB=0
+-XX:SoftRefLRUPolicyMSPerMB=50
 -ea
--Dsun.io.useCanonCaches=false
+-XX:CICompilerCount=2
+-Dsun.io.useCanonPrefixCache=false
 -Djava.net.preferIPv4Stack=true
+-Djdk.http.auth.tunneling.disabledSchemes=""
 -XX:+HeapDumpOnOutOfMemoryError
 -XX:-OmitStackTraceInFastThrow
-# -javaagent:D:/Program Files/JetBrains/IntelliJ IDEA 2018.1.4/bin/JetbrainsCrack-2.10-release-enc.jar
+-Dkotlinx.coroutines.debug=off
+-Djdk.module.illegalAccess.silent=true
+-Dide.no.platform.update=true
+-javaagent:C:\jetbrains-agent.jar
 # 设置编码
 -Dfile.encoding=UTF-8
 # 设置抗锯齿
 -Dawt.useSystemAAFontSettings=on
 -Dide.run.dashboard=true
+-Djdk.attach.allowAttachSelf=true
+-Didea.plugins.path=C:/Users/Administrator/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/193.5662.53.plugins
 ```
 
