@@ -15,6 +15,7 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*Contr.*</mask>
     <mask>*.*</mask>
   </component>
 </application>
