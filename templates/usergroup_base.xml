@@ -1,0 +1,57 @@
+<templateSet group="usergroup_base">
+  <template name="lt_log_slf4j" value="// Logger打印日志对象&#10;private static org.slf4j.Logger logger = org.slf4j.LoggerFactory.getLogger($CURRENT_CLASS$.class.getName());" description="logger日志对象" toReformat="false" toShortenFQNames="true">
+    <variable name="CURRENT_CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_method_author" value="/**&#10;*@Description: $discription$&#10;*@Param: $params$&#10;*@return: $return$&#10;*@Author: huaiao&#10;*@date: $date$&#10;*/" description="java添加类方法说明" toReformat="false" toShortenFQNames="true">
+    <variable name="discription" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_class_author" value="/**&#10; *@description: &#10; *@author: huaiao&#10; *@create: $DATE$-$TIME$&#10; */" description="java添加类说明" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_effective_builder_Constructor" value="&#10;&#10;public $CUR_CLASS_NAME$() {&#10;&#10;}&#10;&#10;public $CUR_CLASS_NAME$(Builder builder) {&#10;&#10;}&#10;&#10;/**&#10; * 构建器&#10; */&#10;public static class Builder implements Serializable {&#10;&#10;    public $CUR_CLASS_NAME$ build() {&#10;        return new $CUR_CLASS_NAME$(this);&#10;    }&#10;&#10;}" description="effective-java-新增-构建器" toReformat="false" toShortenFQNames="true">
+    <variable name="CUR_CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_effective_Constructor" value="&#10;public $CUR_CLASS_NAME$() {&#10;&#10;}" description="effective-java-新增-无参数构建函数" toReformat="false" toShortenFQNames="true">
+    <variable name="CUR_CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_endtime" value="long endTime = System.currentTimeMillis();&#10;double seconds = (endTime - beginTime) / 1000.00;&#10;&#10;logger.warn(&quot;$END$接口耗时:{}秒~&quot;,seconds);" description="打印接口耗时-endtime" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_begintime" value="$END$long beginTime = System.currentTimeMillis();" description="打印接口耗时-begintime" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_this_cur_class" value="$CURRENT_CLASS$.class" description="输出当前类名称.class" toReformat="false" toShortenFQNames="true">
+    <variable name="CURRENT_CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_end_sout_time" value="long endTime = System.currentTimeMillis();&#10;double seconds = (endTime - beginTime) / 1000.00;&#10;&#10;System.out.println(&quot;接口耗时:{&quot; + seconds + &quot;}秒~&quot;);" description="打印接口耗时-endtime" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

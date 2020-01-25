@@ -1,0 +1,26 @@
+<templateSet group="usergroup_springboot">
+  <template name="lt_sp_cls" value="$CURRENT_CLASS$.class" description="输出当前类路径" toReformat="false" toShortenFQNames="true">
+    <variable name="CURRENT_CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_springboot_run" value="&#10;&#10;    public static void main(String[] args) {&#10;        SpringApplication.run($CURRENT_CLASS$.class, args);&#10;    }" description="springBoot方式启动main" toReformat="false" toShortenFQNames="true">
+    <variable name="CURRENT_CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_scanBasePackages" value="&quot;$CURRENT_PACKAGE$&quot;" description="SpringBoot输出当前包路径" toReformat="false" toShortenFQNames="true">
+    <variable name="CURRENT_PACKAGE" expression="currentPackage()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_sp_cln" value="$CURRENT_CLASS$.class.getName()" description="输出当前类名称" toReformat="false" toShortenFQNames="true">
+    <variable name="CURRENT_CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

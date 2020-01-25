@@ -1,0 +1,47 @@
+<templateSet group="usergroup_doordu">
+  <template name="lt_doordu_httpBuilder" value="/**&#10; * &#10; */&#10;public static void main(String[]args){&#10;    Map&lt;String, String&gt; params = com.google.common.collect.Maps.newHashMap();&#10;&#10;    params.put(&quot;&quot;, &quot;&quot;);&#10;    params.put(&quot;&quot;, &quot;&quot;);&#10;&#10;    String content = new DoorduBaseTestCase.Builder()&#10;            .map(params)&#10;            .path(&quot;&quot;)&#10;            .post();&#10;&#10;    System.out.println(content);&#10;}" description="多度接口调用Main" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_doordu_result" value="ResultData&lt;String&gt; resultData = new ResultData&lt;&gt;(ResultCode.ERROR_OPERATE);" description="多度接口_接口返回值构建" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_doordu_controller" value="try {&#10;            ResultData&lt;String&gt; resultData = $CURR_LOCATION$&#10;&#10;            if (resultData == null || !ResultCode.RESPONSE_SUCCESS.equals(resultData.getCode())) {&#10;                return error(resultData.getCode(), ResultCode.errmap.get(resultData.getCode()),&#10;                        resultData.getDesc());&#10;            }&#10;            return ok(resultData.getData(), &quot;操作成功&quot;);&#10;        } catch (BusinessException ex) {&#10;            logger.error(&quot;&quot;, ex);&#10;&#10;            return error(ResultCode.ERROR_OPERATE, ResultCode.errmap.get(ResultCode.ERROR_OPERATE),&#10;                    ex.getMessage());&#10;        } catch (Exception ex) {&#10;            logger.error(&quot;&quot;, ex);&#10;&#10;            return defaultError(ex);&#10;        }" description="controller层请求代码模板" toReformat="false" toShortenFQNames="true">
+    <variable name="CURR_LOCATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_doordu_controller_fail" value="String errorMsg = &quot;$CURR_LOCATIONO$&quot;;&#10;return error(ResultCode.ERROR_DATA_PARAM, errorMsg, errorMsg);" description="controller层失败提示-模板" toReformat="false" toShortenFQNames="true">
+    <variable name="CURR_LOCATIONO" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_doordu_result_fail" value="String errorMsg = &quot;$CURR_LOCATION$&quot;;&#10;&#10;resultData.setCode(ResultCode.RESPONSE_INTRANET_ERROR);&#10;resultData.setMsg(errorMsg);&#10;resultData.setDesc(errorMsg);&#10;&#10;return resultData;" description="多度接口_接口返回值构建" toReformat="false" toShortenFQNames="true">
+    <variable name="CURR_LOCATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_doordu_result_succ" value="String succ = &quot;$CURR_LOCATION$&quot;;&#10;&#10;resultData.setCode(ResultCode.RESPONSE_SUCCESS);&#10;resultData.setMsg(succ);&#10;resultData.setDesc(succ);&#10;&#10;return resultData;" description="多度接口_接口返回值构建" toReformat="false" toShortenFQNames="true">
+    <variable name="CURR_LOCATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_doordu_result_comm" value="/**&#10; *@Description: 重构处理异常提示信息返回&#10; *@Param:&#10; *@return:&#10; *@Author: huaiao&#10; *@date: $CURR_DATE$&#10; */&#10;private ResultData&lt;String&gt; resultDataComm(String errorMsg) {&#10;    ResultData&lt;String&gt; resultData = new ResultData&lt;&gt;();&#10;&#10;    resultData.setCode(ResultCode.RESPONSE_INTRANET_ERROR);&#10;    resultData.setMsg(errorMsg);&#10;    resultData.setDesc(errorMsg);&#10;&#10;    return resultData;&#10;}" description="多度接口_接口返回值构建" toReformat="false" toShortenFQNames="true">
+    <variable name="CURR_DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_doordu_httpClient" value="public static void main(String[] args) {&#10;&#10;    Map&lt;String, String&gt; params = Maps.newHashMap();&#10;    params.put(&quot;&quot;,&quot;&quot;);&#10;    params.put(&quot;&quot;,&quot;&quot;);&#10;    &#10;    String path = &quot;&quot;;&#10;&#10;    String content = HttpClientUtil.httpPostForm(path, params);&#10;    System.out.println(content);&#10;&#10;}" description="Http接口Test调用公共代码" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

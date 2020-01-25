@@ -1,0 +1,62 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Provides fast application restarts, LiveReload, and configurations for enhanced development experience." />
+      <item value="material" />
+      <item value="重写" />
+      <item value="interceptor" />
+      <item value="拦截器" />
+      <item value="method" />
+      <item value="convenience method to get this element as a {@link JsonObject}. If the element is of some * other type, a {@link IllegalStateException} will result. Hence it is best to use this method * after ensuring that this element is of the desired type by calling {@link #isJsonObject()} * first." />
+      <item value="排除" />
+      <item value="regexp" />
+      <item value="vk" />
+      <item value="Immutable" />
+      <item value="ImmutableSet" />
+      <item value="wallets" />
+      <item value="lenovo" />
+      <item value="natural" />
+      <item value="children" />
+      <item value="序列" />
+      <item value="generate" />
+      <item value="talk" />
+      <item value="offline" />
+      <item value="notice" />
+      <item value="durable" />
+      <item value="qc" />
+      <item value="重试" />
+      <item value="consumer" />
+      <item value="consume" />
+      <item value="消费" />
+      <item value="customer" />
+      <item value="circle" />
+      <item value="项目" />
+      <item value="PostProcessor" />
+      <item value="edit" />
+      <item value="Capacity" />
+      <item value="朋友圈" />
+      <item value="comments" />
+      <item value="追加" />
+      <item value="前后" />
+      <item value="字节" />
+      <item value="后缀" />
+      <item value="Remain" />
+      <item value="认证" />
+      <item value="Securet" />
+      <item value="issuer" />
+      <item value="replenish" />
+      <item value="cluster" />
+      <item value="集群" />
+      <item value="child" />
+      <item value="son" />
+      <item value="子" />
+      <item value="san" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="21" />
+        <entry key="ENGLISH" value="21" />
+      </map>
+    </option>
+  </component>
+</application>
