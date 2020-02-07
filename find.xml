@@ -12,10 +12,10 @@
     <mask>*.mxml</mask>
     <mask>*Vo.java</mask>
     <mask>*.yml</mask>
-    <mask>*.java</mask>
     <mask>*Contr.*</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
     <mask>*.*</mask>
   </component>
 </application>
