@@ -9,7 +9,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_api" value="@Api(value = &quot;$END$&quot;, tags = &quot;&quot;)&#10;@RestController&#10;@RequestMapping(&quot;&quot;)" description="@Api-标识，增加位置是Controller" toReformat="false" toShortenFQNames="true">
+  <template name="lt_api" value="@Api(tags = &quot;$END$&quot;)&#10;@RestController&#10;@RequestMapping(&quot;&quot;)" description="@Api-标识，增加位置是Controller" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
