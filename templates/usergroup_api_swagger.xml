@@ -4,17 +4,17 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_api_model" value="@Data&#10;@ApiModel$END$" description="@ApiModel-实体类增加Swagger标识" toReformat="false" toShortenFQNames="true">
+  <template name="lt_api_model" value="@ApiModel&#10;@Data$END$" description="@ApiModel-实体类增加Swagger标识" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_api_controller" value="@RestController&#10;@RequestMapping(&quot;&quot;)&#10;@Api(value = &quot;$END$&quot;, tags = &quot;&quot;)" description="@Api-标识，增加位置是Controller" toReformat="false" toShortenFQNames="true">
+  <template name="lt_api_controller" value="@Api(value = &quot;$END$&quot;, tags = &quot;&quot;)&#10;@RestController&#10;@RequestMapping(&quot;&quot;)" description="@Api-标识，增加位置是Controller" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_api_operation" value="@RequestMapping(value = &quot;&quot;, method = RequestMethod.POST)&#10;@ApiOperation(value = &quot;$END$&quot;)" description="@ApiOperation-具体的接口增加swagger-apioperation支持" toReformat="false" toShortenFQNames="true">
+  <template name="lt_api_operation" value="@ApiOperation(value = &quot;$END$&quot;)&#10;@RequestMapping(value = &quot;&quot;, method = RequestMethod.POST)" description="@ApiOperation-具体的接口增加swagger-apioperation支持" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
