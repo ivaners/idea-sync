@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="draft" />
       <item value="User pages must be built from the master branch." />
       <item value="glad" />
       <item value="Provides fast application restarts, LiveReload, and configurations for enhanced development experience." />
@@ -50,7 +51,6 @@
       <item value="cluster" />
       <item value="集群" />
       <item value="child" />
-      <item value="son" />
     </histories>
     <option name="languageScores">
       <map>
