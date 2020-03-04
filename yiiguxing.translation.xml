@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="操作者" />
+      <item value="删除人" />
       <item value="Algorithms " />
       <item value="draft" />
       <item value="User pages must be built from the master branch." />
@@ -49,13 +51,11 @@
       <item value="Securet" />
       <item value="issuer" />
       <item value="replenish" />
-      <item value="cluster" />
-      <item value="集群" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="ENGLISH" value="22" />
       </map>
     </option>
   </component>
