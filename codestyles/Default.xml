@@ -1,4 +1,20 @@
 <code_scheme name="Default" version="173">
+  <JavaCodeStyleSettings>
+    <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+      <value>
+        <package name="java.awt" withSubpackages="false" static="false" />
+        <package name="com.google.common.base.Preconditions" withSubpackages="true" static="false" />
+        <package name="com.google.common.base.Predicates" withSubpackages="true" static="false" />
+        <package name="com.google.common.collect.Iterables" withSubpackages="true" static="false" />
+        <package name="com.google.common.collect.Lists" withSubpackages="true" static="false" />
+        <package name="com.google.common.collect.Maps" withSubpackages="true" static="false" />
+        <package name="com.google.common.collect.Sets" withSubpackages="true" static="false" />
+        <package name="org.apache.commons.lang.StringUtils" withSubpackages="true" static="false" />
+        <package name="org.junit.Assert" withSubpackages="true" static="false" />
+        <package name="javax.swing" withSubpackages="false" static="false" />
+      </value>
+    </option>
+  </JavaCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
