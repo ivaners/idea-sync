@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Kevin" />
+      <item value="Davis" />
       <item value="Compatible" />
       <item value="Incompatible" />
       <item value="GwtIncompatible" />
@@ -49,8 +51,6 @@
       <item value="consume" />
       <item value="消费" />
       <item value="customer" />
-      <item value="circle" />
-      <item value="项目" />
     </histories>
     <option name="languageScores">
       <map>
