@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CharSequence" />
       <item value="instance" />
       <item value="topic" />
       <item value="fanout" />
@@ -50,7 +51,6 @@
       <item value="追加" />
       <item value="前后" />
       <item value="字节" />
-      <item value="后缀" />
     </histories>
     <option name="languageScores">
       <map>
