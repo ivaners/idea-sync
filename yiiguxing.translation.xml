@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Compatible" />
       <item value="Incompatible" />
       <item value="GwtIncompatible" />
-      <item value="Compatible" />
       <item value="Beta" />
       <item value="Retention" />
       <item value="nohup" />
