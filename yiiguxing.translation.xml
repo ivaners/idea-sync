@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Beta" />
+      <item value="Retention" />
       <item value="nohup" />
       <item value="symbols" />
       <item value="Structure" />
@@ -49,8 +51,6 @@
       <item value="PostProcessor" />
       <item value="edit" />
       <item value="Capacity" />
-      <item value="朋友圈" />
-      <item value="comments" />
     </histories>
     <option name="languageScores">
       <map>
