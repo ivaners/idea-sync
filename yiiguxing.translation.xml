@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Overrun" />
+      <item value="Access" />
+      <item value="locale" />
+      <item value="charset" />
+      <item value="encoding" />
       <item value="bom" />
       <item value="Finalize" />
       <item value="Kevin" />
@@ -46,11 +51,6 @@
       <item value="talk" />
       <item value="offline" />
       <item value="notice" />
-      <item value="durable" />
-      <item value="qc" />
-      <item value="重试" />
-      <item value="consumer" />
-      <item value="consume" />
     </histories>
     <option name="languageScores">
       <map>
