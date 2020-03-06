@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="允许" />
+      <item value="授权" />
+      <item value="权限" />
       <item value="Overrun" />
       <item value="Access" />
       <item value="locale" />
@@ -48,14 +51,11 @@
       <item value="children" />
       <item value="序列" />
       <item value="generate" />
-      <item value="talk" />
-      <item value="offline" />
-      <item value="notice" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="ENGLISH" value="23" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
