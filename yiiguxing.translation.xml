@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="WeakReference" />
+      <item value="Reference" />
+      <item value="PhantomReference" />
+      <item value="week" />
       <item value="Chain" />
       <item value="loop" />
       <item value="IllegalArgumentException" />
@@ -47,10 +51,6 @@
       <item value="interceptor" />
       <item value="拦截器" />
       <item value="method" />
-      <item value="convenience method to get this element as a {@link JsonObject}. If the element is of some * other type, a {@link IllegalStateException} will result. Hence it is best to use this method * after ensuring that this element is of the desired type by calling {@link #isJsonObject()} * first." />
-      <item value="排除" />
-      <item value="regexp" />
-      <item value="vk" />
     </histories>
     <option name="languageScores">
       <map>
