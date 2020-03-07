@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Possible" />
+      <item value="propagate" />
       <item value="备份" />
       <item value="bak" />
       <item value="son" />
@@ -49,12 +51,10 @@
       <item value="Immutable" />
       <item value="ImmutableSet" />
       <item value="wallets" />
-      <item value="lenovo" />
-      <item value="natural" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
+        <entry key="CHINESE" value="24" />
         <entry key="ENGLISH" value="24" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
