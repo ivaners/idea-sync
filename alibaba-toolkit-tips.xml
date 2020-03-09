@@ -1,6 +1,19 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="D:/worth/code" firstStartUp="false" />
+    <entry projectName="D:/worth/code-guava" firstStartUp="false" />
+    <entry projectName="E:/doordu/datapump_comm/ms-comm-datapump" firstStartUp="false" />
+    <entry projectName="E:/doordu/doordu/she-guan/ release_refactor_new" firstStartUp="false" />
+    <entry projectName="E:/doordu/doordu/she-guan/release_refactor" firstStartUp="false" />
+    <entry projectName="E:/doordu/doordu/she-guan/release_refactor_new" firstStartUp="false" />
+    <entry projectName="E:/doordu/doordu/she-guan/release_refactor_v2" firstStartUp="false" />
+    <entry projectName="E:/doordu/doordu/she-guan/v1.8.4.0.3_hotfix" firstStartUp="false" />
+    <entry projectName="E:/ms-coredata/ms-coredata" firstStartUp="false" />
+    <entry projectName="E:/springcloud-appsdk/biz-service" firstStartUp="false" />
+    <entry projectName="E:/springcloud-appsdk/ms-comm-datareader" firstStartUp="false" />
+    <entry projectName="E:/springcloud-appsdk/ms-comm-service" firstStartUp="false" />
+    <entry projectName="F:/code-github/guava" firstStartUp="false" />
     <entry projectName="IPC_1.3.0.0" firstStartUp="false" />
     <entry projectName="V1.7.6.1" firstStartUp="false" />
     <entry projectName="cms" firstStartUp="false" />
