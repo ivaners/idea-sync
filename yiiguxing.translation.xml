@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invalid" />
+      <item value="失效" />
       <item value="Digest" />
       <item value="hotfix" />
       <item value="Increment" />
@@ -49,13 +51,11 @@
       <item value="Aside " />
       <item value="Pattern" />
       <item value="操作者" />
-      <item value="删除人" />
-      <item value="Algorithms " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="CHINESE" value="27" />
+        <entry key="ENGLISH" value="27" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
