@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="授权" />
       <item value="代理" />
       <item value="访客" />
       <item value="临时客人" />
@@ -32,7 +33,6 @@
       <item value="bak" />
       <item value="son" />
       <item value="允许" />
-      <item value="授权" />
       <item value="权限" />
       <item value="Overrun" />
       <item value="Access" />
