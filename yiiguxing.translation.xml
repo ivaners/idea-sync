@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="policy" />
       <item value="minutes" />
       <item value="minute" />
       <item value="过期时间" />
@@ -50,7 +51,6 @@
       <item value="Finalize" />
       <item value="Kevin" />
       <item value="Davis" />
-      <item value="Compatible" />
     </histories>
     <option name="languageScores">
       <map>
