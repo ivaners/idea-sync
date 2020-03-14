@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dubbo" />
+      <item value="Sharding" />
       <item value="policy" />
       <item value="minutes" />
       <item value="minute" />
@@ -49,8 +51,6 @@
       <item value="encoding" />
       <item value="bom" />
       <item value="Finalize" />
-      <item value="Kevin" />
-      <item value="Davis" />
     </histories>
     <option name="languageScores">
       <map>
