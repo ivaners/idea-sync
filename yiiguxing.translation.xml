@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remain" />
+      <item value="剩余" />
+      <item value="生育" />
       <item value="日期" />
       <item value="assert" />
       <item value="dubbo" />
@@ -48,13 +51,10 @@
       <item value="权限" />
       <item value="Overrun" />
       <item value="Access" />
-      <item value="locale" />
-      <item value="charset" />
-      <item value="encoding" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="31" />
+        <entry key="CHINESE" value="32" />
         <entry key="ENGLISH" value="32" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
