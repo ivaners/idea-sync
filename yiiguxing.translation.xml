@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="daemon" />
+      <item value="Phantom" />
       <item value="assert" />
       <item value="dubbo" />
       <item value="Sharding" />
@@ -49,8 +51,6 @@
       <item value="Access" />
       <item value="locale" />
       <item value="charset" />
-      <item value="encoding" />
-      <item value="bom" />
     </histories>
     <option name="languageScores">
       <map>
