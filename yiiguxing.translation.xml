@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dditional nanoseconds to sleep" />
+      <item value="priority" />
+      <item value="inheritableThreadLocals" />
       <item value="Atomic" />
       <item value="weak" />
       <item value="assert" />
@@ -48,9 +51,6 @@
       <item value="tuple" />
       <item value="Semaphore" />
       <item value="WeakReference" />
-      <item value="Reference" />
-      <item value="PhantomReference" />
-      <item value="week" />
     </histories>
     <option name="languageScores">
       <map>
