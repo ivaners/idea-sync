@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="discovery" />
       <item value="InheritableThreadLocal values pertaining to this thread. This map is * maintained by the InheritableThreadLocal class." />
       <item value="ThreadLocal values pertaining to this thread. This map is maintained * by the ThreadLocal class." />
       <item value="weak" />
@@ -50,11 +51,10 @@
       <item value="Semaphore" />
       <item value="WeakReference" />
       <item value="Reference" />
-      <item value="PhantomReference" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
+        <entry key="CHINESE" value="36" />
         <entry key="ENGLISH" value="36" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
