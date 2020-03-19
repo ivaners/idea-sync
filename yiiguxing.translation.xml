@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Phantom" />
+      <item value="Reentrant" />
+      <item value="Semaphore" />
+      <item value="ReentrantLock" />
       <item value="AtomicLong" />
       <item value="volatile" />
       <item value="dependency" />
@@ -47,10 +51,6 @@
       <item value="增量" />
       <item value="invalid" />
       <item value="失效" />
-      <item value="Digest" />
-      <item value="hotfix" />
-      <item value="Increment" />
-      <item value="增量增加" />
     </histories>
     <option name="languageScores">
       <map>
