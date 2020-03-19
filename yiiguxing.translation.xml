@@ -1,14 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="volatile" />
+      <item value="dependency" />
+      <item value="软弱" />
+      <item value="weak" />
       <item value="unable to be deleted" />
       <item value="excludes" />
-      <item value="dependency" />
       <item value="Filter" />
       <item value="discovery" />
       <item value="InheritableThreadLocal values pertaining to this thread. This map is * maintained by the InheritableThreadLocal class." />
       <item value="ThreadLocal values pertaining to this thread. This map is maintained * by the ThreadLocal class." />
-      <item value="weak" />
       <item value="assert" />
       <item value="interrupt" />
       <item value="TIMED" />
@@ -49,13 +51,11 @@
       <item value="Increment" />
       <item value="增量增加" />
       <item value="bare" />
-      <item value="IllegalArgumentException" />
-      <item value="feature" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="37" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
