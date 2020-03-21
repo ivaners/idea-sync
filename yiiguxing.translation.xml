@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Latch" />
+      <item value="countDownLatch" />
       <item value="purge" />
       <item value="CAS" />
       <item value="Phantom" />
@@ -49,8 +51,6 @@
       <item value="rent" />
       <item value="租" />
       <item value="租客" />
-      <item value="家人" />
-      <item value="增量" />
     </histories>
     <option name="languageScores">
       <map>
