@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tile" />
+      <item value="vola" />
+      <item value="volatile" />
+      <item value="volitile" />
+      <item value="semaphore" />
+      <item value="phore" />
+      <item value="sema" />
+      <item value="sea" />
+      <item value="seamphore" />
       <item value="Latch" />
       <item value="countDownLatch" />
       <item value="purge" />
@@ -10,7 +19,6 @@
       <item value="Semaphore" />
       <item value="ReentrantLock" />
       <item value="AtomicLong" />
-      <item value="volatile" />
       <item value="dependency" />
       <item value="软弱" />
       <item value="weak" />
@@ -43,14 +51,6 @@
       <item value="Handler" />
       <item value="company" />
       <item value="厂商" />
-      <item value="Expiration" />
-      <item value="授权" />
-      <item value="代理" />
-      <item value="访客" />
-      <item value="临时客人" />
-      <item value="rent" />
-      <item value="租" />
-      <item value="租客" />
     </histories>
     <option name="languageScores">
       <map>
