@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Finalizer" />
+      <item value="internal" />
       <item value="tile" />
       <item value="vola" />
       <item value="volatile" />
@@ -49,8 +51,6 @@
       <item value="minute" />
       <item value="过期时间" />
       <item value="Handler" />
-      <item value="company" />
-      <item value="厂商" />
     </histories>
     <option name="languageScores">
       <map>
