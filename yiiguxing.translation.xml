@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Component" />
+      <item value="组件" />
+      <item value="个人" />
       <item value="Sneaky" />
       <item value="替换" />
       <item value="filer" />
@@ -48,14 +51,11 @@
       <item value="WAITING" />
       <item value="房产" />
       <item value="real" />
-      <item value="明细" />
-      <item value="待审核" />
-      <item value="审核" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="41" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
