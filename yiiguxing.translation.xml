@@ -1,8 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Creates a new phantom reference that refers to the given object and * is registered with the given queue. * * &lt;p&gt; It is possible to create a phantom reference with a &lt;tt&gt;null&lt;/tt&gt; * queue, but such a reference is completely useless: Its &lt;tt&gt;get&lt;/tt&gt; * method will always return null and, since it does not have a queue, it * will never be enqueued. * * @param referent the object the new phantom reference will refer to * @param q the queue with which the reference is to be registered, * or &lt;tt&gt;null&lt;/tt&gt; if registration is not required" />
-      <item value="Creates a new soft reference that refers to the given object and is * registered with the given queue. * * @param referent object the new soft reference will refer to * @param q the queue with which the reference is to be registered, * or &lt;tt&gt;null&lt;/tt&gt; if registration is not required" />
+      <item value="Component" />
+      <item value="组件" />
+      <item value="个人" />
+      <item value="Sneaky" />
+      <item value="替换" />
+      <item value="filer" />
       <item value="meta" />
       <item value="业主" />
       <item value="isdone" />
@@ -47,14 +51,10 @@
       <item value="WAITING" />
       <item value="房产" />
       <item value="real" />
-      <item value="明细" />
-      <item value="待审核" />
-      <item value="审核" />
-      <item value="remain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
+        <entry key="CHINESE" value="41" />
         <entry key="ENGLISH" value="41" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
