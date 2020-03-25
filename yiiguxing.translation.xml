@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="yied" />
+      <item value="priority" />
+      <item value="delay" />
       <item value="Component" />
       <item value="组件" />
       <item value="个人" />
@@ -48,9 +51,6 @@
       <item value="interrupt" />
       <item value="TIMED" />
       <item value="TERMINATED" />
-      <item value="WAITING" />
-      <item value="房产" />
-      <item value="real" />
     </histories>
     <option name="languageScores">
       <map>
