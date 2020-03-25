@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fetching" />
+      <item value="* Thread that finalizes referents. All references should implement {@code * com.google.common.base.FinalizableReference}. * * &lt;p&gt;While this class is public, we consider it to be *internal* and not part of our published API. * It is public so we can access it reflectively across class loaders in secure environments. * * &lt;p&gt;This class can't depend on other Guava code. If we were to load this class in the same class * loader as the rest of Guava, this thread would keep an indirect strong reference to the class * loader and prevent it from being garbage collected. This poses a problem for environments where * you want to throw away the class loader. For example, dynamically reloading a web application or * unloading an OSGi bundle. * * &lt;p&gt;{@code com.google.common.base.FinalizableReferenceQueue} loads this class in its own class * loader. That way, this class doesn't prevent the main class loader from getting garbage * collected, and this class can detect when the main class loader has been garbage collected and * stop itself." />
+      <item value="collected, and this class can detect when the main class loader has been garbage collected and" />
+      <item value="stop itself." />
+      <item value="Thread that finalizes referents. All references should implement {@code * com.google.common.base.FinalizableReference}. * * &lt;p&gt;While this class is public, we consider it to be *internal* and not part of our published API. * It is public so we can access it reflectively across class loaders in secure environments. * * &lt;p&gt;This class can't depend on other Guava code. If we were to load this class in the same class * loader as the rest of Guava, this thread would keep an indirect strong reference to the class * loader and prevent it from being garbage collected. This poses a problem for environments where * you want to throw away the class loader. For example, dynamically reloading a web application or * unloading an OSGi bundle. * * &lt;p&gt;{@code com.google.common.base.FinalizableReferenceQueue} loads this class in its own class * loader. That way, this class doesn't prevent the main class loader from getting garbage * collected, and this class can detect when the main class loader has been garbage collected and * stop itself." />
       <item value="Component" />
       <item value="组件" />
       <item value="个人" />
@@ -46,16 +51,11 @@
       <item value="ThreadLocal values pertaining to this thread. This map is maintained * by the ThreadLocal class." />
       <item value="assert" />
       <item value="interrupt" />
-      <item value="TIMED" />
-      <item value="TERMINATED" />
-      <item value="WAITING" />
-      <item value="房产" />
-      <item value="real" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="45" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
