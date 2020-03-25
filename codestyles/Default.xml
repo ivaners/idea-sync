@@ -1,17 +1,10 @@
 <code_scheme name="Default" version="173">
   <JavaCodeStyleSettings>
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
     <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
       <value>
-        <package name="java.awt" withSubpackages="false" static="false" />
-        <package name="com.google.common.base.Preconditions" withSubpackages="true" static="false" />
-        <package name="com.google.common.base.Predicates" withSubpackages="true" static="false" />
-        <package name="com.google.common.collect.Iterables" withSubpackages="true" static="false" />
-        <package name="com.google.common.collect.Lists" withSubpackages="true" static="false" />
-        <package name="com.google.common.collect.Maps" withSubpackages="true" static="false" />
-        <package name="com.google.common.collect.Sets" withSubpackages="true" static="false" />
-        <package name="org.apache.commons.lang.StringUtils" withSubpackages="true" static="false" />
-        <package name="org.junit.Assert" withSubpackages="true" static="false" />
-        <package name="javax.swing" withSubpackages="false" static="false" />
+        <package name="com.google.common.base.Preconditions" withSubpackages="true" static="true" />
       </value>
     </option>
   </JavaCodeStyleSettings>
