@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Equals" />
+      <item value="Equal" />
+      <item value="大于等于" />
+      <item value="等于" />
       <item value="大于" />
       <item value="小于" />
       <item value="小宇" />
@@ -47,14 +51,10 @@
       <item value="Phantom" />
       <item value="Reentrant" />
       <item value="Semaphore" />
-      <item value="ReentrantLock" />
-      <item value="AtomicLong" />
-      <item value="软弱" />
-      <item value="weak" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
+        <entry key="CHINESE" value="47" />
         <entry key="ENGLISH" value="47" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
