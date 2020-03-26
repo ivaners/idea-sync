@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="listener" />
       <item value="gateway" />
       <item value="Micro" />
       <item value="Microservice" />
@@ -50,7 +51,6 @@
       <item value="seamphore" />
       <item value="Latch" />
       <item value="countDownLatch" />
-      <item value="purge" />
     </histories>
     <option name="languageScores">
       <map>
