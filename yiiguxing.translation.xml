@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="registry" />
+      <item value="regist" />
       <item value="hierarchical-multi-select" />
       <item value="listener" />
       <item value="gateway" />
@@ -49,8 +51,6 @@
       <item value="phore" />
       <item value="sema" />
       <item value="sea" />
-      <item value="seamphore" />
-      <item value="Latch" />
     </histories>
     <option name="languageScores">
       <map>
