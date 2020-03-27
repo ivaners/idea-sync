@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tracing" />
+      <item value="tra" />
+      <item value="distributed" />
+      <item value="distr" />
       <item value="registry" />
       <item value="regist" />
       <item value="hierarchical-multi-select" />
@@ -47,10 +51,6 @@
       <item value="vola" />
       <item value="volatile" />
       <item value="volitile" />
-      <item value="semaphore" />
-      <item value="phore" />
-      <item value="sema" />
-      <item value="sea" />
     </histories>
     <option name="languageScores">
       <map>
