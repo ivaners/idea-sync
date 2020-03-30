@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dependency" />
+      <item value="Note this class is a copy of" />
+      <item value="reasons" />
+      <item value="Note this class is a copy of {@link com.google.common.collect.AbstractIterator} (for dependency * reasons)." />
+      <item value="Static methods pertaining to ASCII characters (those in the range of values {@code 0x00} through * {@code 0x7F}), and to strings containing such characters. * * &lt;p&gt;ASCII utilities also exist in other classes of this package: * * &lt;ul&gt; * &lt;!-- TODO(kevinb): how can we make this not produce a warning when building gwt javadoc? --&gt; * &lt;li&gt;{@link Charsets#US_ASCII} specifies the {@code Charset} of ASCII characters. * &lt;li&gt;{@link CharMatcher#ascii} matches ASCII characters and provides text processing methods * which operate only on the ASCII characters of a string. * &lt;/ul&gt;" />
       <item value="* Performs the given action for each remaining element until all elements * have been processed or the action throws an exception. Actions are * performed in the order of iteration, if that order is specified. * Exceptions thrown by the action are relayed to the caller. * &lt;p&gt; * The behavior of an iterator is unspecified if the action modifies the * collection in any way (even by calling the {@link #remove remove} method * or other mutator methods of {@code Iterator} subtypes), * unless an overriding class has specified a concurrent modification policy. * &lt;p&gt; * Subsequent behavior of an iterator is unspecified if the action throws an * exception." />
       <item value="Removes from the underlying collection the last element returned by this iterator (optional operation). This method can be called only once per call to {@link #next}. &lt;p&gt; The behavior of an iterator is unspecified if the underlying collection is modified while the iteration is in progress in any way other than by calling this method, unless an overriding class has specified a concurrent modification policy. &lt;p&gt; The behavior of an iterator is unspecified if this method is called after a call to the {@link #forEachRemaining forEachRemaining} method." />
       <item value="Removes from the underlying collection the last element returned by this iterator (optional operation). This method can be called only once per call to {@link #next}. &lt;p&gt; The behavior of an iterator is unspecified if the underlying collection is modified while the iteration is in progress in any way other than by calling this method, unless an overriding class has specified a concurrent modification policy. &lt;p&gt; The behavior of an iterator is unspecified if this method is called after a call to the {@link #forEachRemaining forEachRemaining} method. @implSpec The default implementation throws an instance of {@link UnsupportedOperationException} and performs no other action. @throws UnsupportedOperationException if the {@code remove} operation is not supported by this iterator @throws IllegalStateException if the {@code next} method has not yet been called, or the {@code remove} method has already been called after the last call to the {@code next}" />
@@ -46,16 +51,11 @@
       <item value="isdone" />
       <item value="filter" />
       <item value="identity" />
-      <item value="Optional" />
-      <item value="dependency" />
-      <item value="循环" />
-      <item value="新环保" />
-      <item value="Finalizer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="CHINESE" value="58" />
+        <entry key="ENGLISH" value="59" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
