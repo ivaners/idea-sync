@@ -1,7 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Check that a method with the specified name exists and that it is non-static." />
+      <item value="BinaryOperator" />
+      <item value="Value converter (a single value counts '1')" />
+      <item value="extractor" />
+      <item value="Table configuration with catalog null, schema log, and table ConfigLog did not resolve to any tables" />
       <item value="Field injection is not recommended" />
       <item value="-1 is response write filter, must be called before that" />
       <item value="predicates" />
@@ -48,13 +51,10 @@
       <item value="业主" />
       <item value="isdone" />
       <item value="filter" />
-      <item value="identity" />
-      <item value="Optional" />
-      <item value="dependency" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
+        <entry key="CHINESE" value="55" />
         <entry key="ENGLISH" value="51" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
