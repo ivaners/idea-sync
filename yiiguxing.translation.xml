@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Value converter (a single value counts '1')" />
+      <item value="extractor" />
       <item value="Table configuration with catalog null, schema log, and table ConfigLog did not resolve to any tables" />
       <item value="Field injection is not recommended" />
       <item value="-1 is response write filter, must be called before that" />
@@ -49,8 +51,6 @@
       <item value="isdone" />
       <item value="filter" />
       <item value="identity" />
-      <item value="Optional" />
-      <item value="dependency" />
     </histories>
     <option name="languageScores">
       <map>
