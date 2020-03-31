@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BinaryOperator" />
       <item value="Value converter (a single value counts '1')" />
       <item value="extractor" />
       <item value="Table configuration with catalog null, schema log, and table ConfigLog did not resolve to any tables" />
@@ -50,7 +51,6 @@
       <item value="业主" />
       <item value="isdone" />
       <item value="filter" />
-      <item value="identity" />
     </histories>
     <option name="languageScores">
       <map>
