@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Table configuration with catalog null, schema log, and table ConfigLog did not resolve to any tables" />
       <item value="Field injection is not recommended" />
       <item value="-1 is response write filter, must be called before that" />
       <item value="predicates" />
@@ -50,11 +51,10 @@
       <item value="identity" />
       <item value="Optional" />
       <item value="dependency" />
-      <item value="循环" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
+        <entry key="CHINESE" value="55" />
         <entry key="ENGLISH" value="51" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
