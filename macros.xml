@@ -1,0 +1,12 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="build">
+      <action id="SaveAll" />
+      <action id="CompileDirty" />
+    </macro>
+    <macro name="auto build">
+      <action id="SaveAll" />
+      <action id="CompileDirty" />
+    </macro>
+  </component>
+</application>
