@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Consumer" />
+      <item value="Remaining" />
       <item value="BinaryOperator" />
       <item value="Value converter (a single value counts '1')" />
       <item value="extractor" />
@@ -49,8 +51,6 @@
       <item value="filer" />
       <item value="meta" />
       <item value="业主" />
-      <item value="isdone" />
-      <item value="filter" />
     </histories>
     <option name="languageScores">
       <map>
