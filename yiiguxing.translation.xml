@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Command" />
+      <item value="HystrixCommand" />
       <item value="metrics" />
       <item value="expression" />
       <item value="cluster" />
@@ -49,8 +51,6 @@
       <item value="小于" />
       <item value="小宇" />
       <item value="lt" />
-      <item value="compare" />
-      <item value="审核" />
     </histories>
     <option name="languageScores">
       <map>
