@@ -1,25 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Command" />
-      <item value="HystrixCommand" />
-      <item value="metrics" />
-      <item value="expression" />
-      <item value="cluster" />
-      <item value="Gets the metadata name\/value pairs associated with this instance. This information is sent to eureka server and can be used by other instances." />
-      <item value="replicas" />
-      <item value="turbine" />
-      <item value="circuited" />
-      <item value="tubine" />
       <item value="Hystrix circuit short-circuited and is OPEN" />
-      <item value="compression" />
-      <item value="Enables the use of the deprecated Ribbon RestClient." />
-      <item value="eager" />
-      <item value="eager-load" />
-      <item value="Value used in determining when leases are cancelled, default to 1 for standalone. Should be set to 0 for peer replicated eurekas" />
-      <item value="dashboard" />
-      <item value="Consumer" />
-      <item value="Remaining" />
+      <item value="Gets the proxy port to eureka server if any" />
+      <item value="Renews" />
+      <item value="Flag to enable the Eureka dashboard. Default true" />
+      <item value="The path to the Eureka dashboard (relative to the servlet path). Defaults to" />
+      <item value="archaius" />
+      <item value="Indicates how much time (in seconds) that the HTTP connections to eureka server can stay idle before it can be closed. In the AWS environment, it is recommended that the values is 30 seconds or less, since the firewall cleans up the connection information after a few mins leaving the connection hanging in limbo." />
+      <item value="transport" />
+      <item value="with an explicit Types value to specify the type to use" />
       <item value="BinaryOperator" />
       <item value="Value converter (a single value counts '1')" />
       <item value="extractor" />
@@ -51,10 +41,20 @@
       <item value="小于" />
       <item value="小宇" />
       <item value="lt" />
+      <item value="compare" />
+      <item value="审核" />
+      <item value="待审核" />
+      <item value="policy" />
+      <item value="fetching" />
+      <item value="* Thread that finalizes referents. All references should implement {@code * com.google.common.base.FinalizableReference}. * * &lt;p&gt;While this class is public, we consider it to be *internal* and not part of our published API. * It is public so we can access it reflectively across class loaders in secure environments. * * &lt;p&gt;This class can't depend on other Guava code. If we were to load this class in the same class * loader as the rest of Guava, this thread would keep an indirect strong reference to the class * loader and prevent it from being garbage collected. This poses a problem for environments where * you want to throw away the class loader. For example, dynamically reloading a web application or * unloading an OSGi bundle. * * &lt;p&gt;{@code com.google.common.base.FinalizableReferenceQueue} loads this class in its own class * loader. That way, this class doesn't prevent the main class loader from getting garbage * collected, and this class can detect when the main class loader has been garbage collected and * stop itself." />
+      <item value="collected, and this class can detect when the main class loader has been garbage collected and" />
+      <item value="stop itself." />
+      <item value="Thread that finalizes referents. All references should implement {@code * com.google.common.base.FinalizableReference}. * * &lt;p&gt;While this class is public, we consider it to be *internal* and not part of our published API. * It is public so we can access it reflectively across class loaders in secure environments. * * &lt;p&gt;This class can't depend on other Guava code. If we were to load this class in the same class * loader as the rest of Guava, this thread would keep an indirect strong reference to the class * loader and prevent it from being garbage collected. This poses a problem for environments where * you want to throw away the class loader. For example, dynamically reloading a web application or * unloading an OSGi bundle. * * &lt;p&gt;{@code com.google.common.base.FinalizableReferenceQueue} loads this class in its own class * loader. That way, this class doesn't prevent the main class loader from getting garbage * collected, and this class can detect when the main class loader has been garbage collected and * stop itself." />
+      <item value="Component" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
+        <entry key="CHINESE" value="56" />
         <entry key="ENGLISH" value="51" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
