@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="archaius" />
+      <item value="Indicates how much time (in seconds) that the HTTP connections to eureka server can stay idle before it can be closed. In the AWS environment, it is recommended that the values is 30 seconds or less, since the firewall cleans up the connection information after a few mins leaving the connection hanging in limbo." />
+      <item value="transport" />
       <item value="with an explicit Types value to specify the type to use" />
       <item value="BinaryOperator" />
       <item value="Value converter (a single value counts '1')" />
@@ -48,9 +51,6 @@
       <item value="Sneaky" />
       <item value="替换" />
       <item value="filer" />
-      <item value="meta" />
-      <item value="业主" />
-      <item value="isdone" />
     </histories>
     <option name="languageScores">
       <map>
