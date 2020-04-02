@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Value used in determining when leases are cancelled, default to 1 for standalone. Should be set to 0 for peer replicated eurekas" />
+      <item value="dashboard" />
+      <item value="turbine" />
       <item value="Consumer" />
       <item value="Remaining" />
       <item value="BinaryOperator" />
@@ -48,9 +51,6 @@
       <item value="个人" />
       <item value="Sneaky" />
       <item value="替换" />
-      <item value="filer" />
-      <item value="meta" />
-      <item value="业主" />
     </histories>
     <option name="languageScores">
       <map>
