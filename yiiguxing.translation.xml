@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Flag to enable the Eureka dashboard. Default true" />
+      <item value="The path to the Eureka dashboard (relative to the servlet path). Defaults to" />
       <item value="archaius" />
       <item value="Indicates how much time (in seconds) that the HTTP connections to eureka server can stay idle before it can be closed. In the AWS environment, it is recommended that the values is 30 seconds or less, since the firewall cleans up the connection information after a few mins leaving the connection hanging in limbo." />
       <item value="transport" />
@@ -49,8 +51,6 @@
       <item value="组件" />
       <item value="个人" />
       <item value="Sneaky" />
-      <item value="替换" />
-      <item value="filer" />
     </histories>
     <option name="languageScores">
       <map>
