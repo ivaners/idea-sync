@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="developer" />
-      <item value="Architect" />
-      <item value="架构师" />
-      <item value="Iterable" />
+      <item value="Minutes" />
+      <item value="Timeliness" />
+      <item value="时效性" />
+      <item value="Note that this implementation is not synchronized." />
+      <item value="源码" />
       <item value="metrics" />
       <item value="compression" />
       <item value="Hystrix circuit short-circuited and is OPEN" />
@@ -50,12 +51,11 @@
       <item value="compare" />
       <item value="审核" />
       <item value="待审核" />
-      <item value="policy" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="ENGLISH" value="54" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
