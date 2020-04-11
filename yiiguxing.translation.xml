@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Builtin" />
+      <item value="Secure" />
       <item value="contact" />
       <item value="业主" />
       <item value="排除" />
@@ -49,8 +51,6 @@
       <item value="等于" />
       <item value="大于" />
       <item value="小于" />
-      <item value="小宇" />
-      <item value="lt" />
     </histories>
     <option name="languageScores">
       <map>
