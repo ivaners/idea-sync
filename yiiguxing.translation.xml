@@ -1,61 +1,62 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Provides fast application restarts, LiveReload, and configurations for enhanced development experience." />
-      <item value="material" />
-      <item value="重写" />
-      <item value="interceptor" />
-      <item value="拦截器" />
-      <item value="method" />
-      <item value="convenience method to get this element as a {@link JsonObject}. If the element is of some * other type, a {@link IllegalStateException} will result. Hence it is best to use this method * after ensuring that this element is of the desired type by calling {@link #isJsonObject()} * first." />
+      <item value="接口测试" />
+      <item value="service" />
+      <item value="server" />
+      <item value="stopPruning" />
+      <item value="javassist" />
+      <item value="instrument" />
+      <item value="监控" />
+      <item value="pinpoint" />
+      <item value="Builtin" />
+      <item value="Secure" />
+      <item value="contact" />
+      <item value="业主" />
       <item value="排除" />
-      <item value="regexp" />
-      <item value="vk" />
-      <item value="Immutable" />
-      <item value="ImmutableSet" />
-      <item value="wallets" />
-      <item value="lenovo" />
-      <item value="natural" />
-      <item value="children" />
-      <item value="序列" />
-      <item value="generate" />
-      <item value="talk" />
-      <item value="offline" />
-      <item value="notice" />
-      <item value="durable" />
-      <item value="qc" />
-      <item value="重试" />
-      <item value="consumer" />
-      <item value="consume" />
-      <item value="消费" />
-      <item value="customer" />
-      <item value="circle" />
-      <item value="项目" />
-      <item value="PostProcessor" />
-      <item value="edit" />
-      <item value="Capacity" />
-      <item value="朋友圈" />
-      <item value="comments" />
-      <item value="追加" />
-      <item value="前后" />
-      <item value="字节" />
-      <item value="后缀" />
-      <item value="Remain" />
-      <item value="认证" />
-      <item value="Securet" />
-      <item value="issuer" />
-      <item value="replenish" />
-      <item value="cluster" />
-      <item value="集群" />
-      <item value="child" />
-      <item value="son" />
-      <item value="子" />
-      <item value="san" />
+      <item value="Minutes" />
+      <item value="Timeliness" />
+      <item value="时效性" />
+      <item value="Note that this implementation is not synchronized." />
+      <item value="源码" />
+      <item value="metrics" />
+      <item value="compression" />
+      <item value="Hystrix circuit short-circuited and is OPEN" />
+      <item value="Gets the proxy port to eureka server if any" />
+      <item value="Renews" />
+      <item value="Flag to enable the Eureka dashboard. Default true" />
+      <item value="The path to the Eureka dashboard (relative to the servlet path). Defaults to" />
+      <item value="archaius" />
+      <item value="Indicates how much time (in seconds) that the HTTP connections to eureka server can stay idle before it can be closed. In the AWS environment, it is recommended that the values is 30 seconds or less, since the firewall cleans up the connection information after a few mins leaving the connection hanging in limbo." />
+      <item value="transport" />
+      <item value="with an explicit Types value to specify the type to use" />
+      <item value="BinaryOperator" />
+      <item value="Value converter (a single value counts '1')" />
+      <item value="extractor" />
+      <item value="Table configuration with catalog null, schema log, and table ConfigLog did not resolve to any tables" />
+      <item value="Field injection is not recommended" />
+      <item value="-1 is response write filter, must be called before that" />
+      <item value="predicates" />
+      <item value="THE SELF PRESERVATION MODE IS TURNED OFF. THIS MAY NOT PROTECT INSTANCE EXPIRY IN CASE OF NETWORK/OTHER PROBLEMS." />
+      <item value="tracing" />
+      <item value="distributed" />
+      <item value="distribute " />
+      <item value="Circuit Breaker" />
+      <item value="Features" />
+      <item value="tra" />
+      <item value="distr" />
+      <item value="registry" />
+      <item value="regist" />
+      <item value="hierarchical-multi-select" />
+      <item value="listener" />
+      <item value="gateway" />
+      <item value="Micro" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
   </component>

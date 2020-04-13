@@ -67,4 +67,6 @@ Host git@gitee.com
 -Djdk.attach.allowAttachSelf=true
 -Didea.plugins.path=C:/Users/Administrator/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/193.5662.53.plugins
 ```
+**Register**
+`http://jetbrains-license-server`
 
