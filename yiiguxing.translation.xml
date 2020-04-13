@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="接口测试" />
       <item value="service" />
       <item value="server" />
       <item value="stopPruning" />
@@ -50,12 +51,11 @@
       <item value="listener" />
       <item value="gateway" />
       <item value="Micro" />
-      <item value="Microservice" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="ENGLISH" value="60" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
