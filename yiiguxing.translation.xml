@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="service" />
+      <item value="server" />
       <item value="stopPruning" />
       <item value="javassist" />
       <item value="instrument" />
@@ -49,8 +51,6 @@
       <item value="gateway" />
       <item value="Micro" />
       <item value="Microservice" />
-      <item value="微服务" />
-      <item value="Equals" />
     </histories>
     <option name="languageScores">
       <map>
