@@ -5,10 +5,6 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="EditorDeleteLine" />
-  <action id="Macro.auto build">
-    <keyboard-shortcut first-keystroke="ctrl s" />
-  </action>
-  <action id="SaveAll" />
   <action id="emacsIDEAs.AceJumpWord">
     <keyboard-shortcut first-keystroke="meta l" />
     <keyboard-shortcut first-keystroke="meta i" second-keystroke="meta f" />
