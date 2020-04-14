@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="状态" />
       <item value="Fuzziness" />
       <item value="resolutionFuzziness" />
       <item value="unable to be deleted" />
@@ -50,12 +51,11 @@
       <item value="predicates" />
       <item value="THE SELF PRESERVATION MODE IS TURNED OFF. THIS MAY NOT PROTECT INSTANCE EXPIRY IN CASE OF NETWORK/OTHER PROBLEMS." />
       <item value="tracing" />
-      <item value="distributed" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="ENGLISH" value="64" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
