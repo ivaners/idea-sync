@@ -1,6 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="用户明细" />
+      <item value="解除" />
+      <item value="解绑" />
+      <item value="样式" />
+      <item value="状态" />
+      <item value="Fuzziness" />
+      <item value="resolutionFuzziness" />
+      <item value="unable to be deleted" />
+      <item value=" unable to be deleted" />
+      <item value="permission" />
+      <item value="授" />
+      <item value="auth" />
+      <item value="权限" />
+      <item value="用户权限" />
+      <item value="spelling" />
+      <item value="grammar" />
+      <item value="接口测试" />
+      <item value="service" />
+      <item value="server" />
       <item value="stopPruning" />
       <item value="javassist" />
       <item value="instrument" />
@@ -32,30 +51,11 @@
       <item value="extractor" />
       <item value="Table configuration with catalog null, schema log, and table ConfigLog did not resolve to any tables" />
       <item value="Field injection is not recommended" />
-      <item value="-1 is response write filter, must be called before that" />
-      <item value="predicates" />
-      <item value="THE SELF PRESERVATION MODE IS TURNED OFF. THIS MAY NOT PROTECT INSTANCE EXPIRY IN CASE OF NETWORK/OTHER PROBLEMS." />
-      <item value="tracing" />
-      <item value="distributed" />
-      <item value="distribute " />
-      <item value="Circuit Breaker" />
-      <item value="Features" />
-      <item value="tra" />
-      <item value="distr" />
-      <item value="registry" />
-      <item value="regist" />
-      <item value="hierarchical-multi-select" />
-      <item value="listener" />
-      <item value="gateway" />
-      <item value="Micro" />
-      <item value="Microservice" />
-      <item value="微服务" />
-      <item value="Equals" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
