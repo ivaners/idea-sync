@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" unable to be deleted" />
       <item value="permission" />
       <item value="授" />
       <item value="auth" />
@@ -50,7 +51,6 @@
       <item value="distribute " />
       <item value="Circuit Breaker" />
       <item value="Features" />
-      <item value="tra" />
     </histories>
     <option name="languageScores">
       <map>
