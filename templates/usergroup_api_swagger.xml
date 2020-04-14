@@ -1,5 +1,5 @@
 <templateSet group="usergroup_api_swagger">
-  <template name="lt_api_property_model" value="@ApiModelProperty(value = &quot;$END$&quot;,required = false)" description="@ApiModelProperty-字段增加swagger" toReformat="false" toShortenFQNames="true">
+  <template name="lt_api_property_model_false" value="@ApiModelProperty(value = &quot;$END$&quot;,required = false)" description="@ApiModelProperty-字段增加swagger" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -15,6 +15,16 @@
     </context>
   </template>
   <template name="lt_api_operation" value="@ApiOperation(value = &quot;$END$&quot;,notes = &quot;&quot;)&#10;@RequestMapping(value = &quot;&quot;, method = RequestMethod.POST)" description="@ApiOperation-具体的接口增加swagger-apioperation支持" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_api_implicitParam" value="@ApiImplicitParams({&#10;        @ApiImplicitParam(name = &quot;userId&quot;, value = &quot;用户ID&quot;, required = true, dataType = &quot;string&quot;, paramType = &quot;query&quot;)&#10;})" description="手动添加接口字段信息" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_api_property_model_true" value="@ApiModelProperty(value = &quot;$END$&quot;,required = true)" description="@ApiModelProperty-字段增加swagger" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
