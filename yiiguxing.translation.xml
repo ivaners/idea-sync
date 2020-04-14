@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="解除" />
+      <item value="解绑" />
       <item value="样式" />
       <item value="状态" />
       <item value="Fuzziness" />
@@ -49,8 +51,6 @@
       <item value="Table configuration with catalog null, schema log, and table ConfigLog did not resolve to any tables" />
       <item value="Field injection is not recommended" />
       <item value="-1 is response write filter, must be called before that" />
-      <item value="predicates" />
-      <item value="THE SELF PRESERVATION MODE IS TURNED OFF. THIS MAY NOT PROTECT INSTANCE EXPIRY IN CASE OF NETWORK/OTHER PROBLEMS." />
     </histories>
     <option name="languageScores">
       <map>
