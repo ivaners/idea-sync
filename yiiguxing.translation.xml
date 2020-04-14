@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fuzziness" />
+      <item value="resolutionFuzziness" />
       <item value="unable to be deleted" />
       <item value=" unable to be deleted" />
       <item value="permission" />
@@ -49,8 +51,6 @@
       <item value="THE SELF PRESERVATION MODE IS TURNED OFF. THIS MAY NOT PROTECT INSTANCE EXPIRY IN CASE OF NETWORK/OTHER PROBLEMS." />
       <item value="tracing" />
       <item value="distributed" />
-      <item value="distribute " />
-      <item value="Circuit Breaker" />
     </histories>
     <option name="languageScores">
       <map>
