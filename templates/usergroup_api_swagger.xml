@@ -1,5 +1,5 @@
 <templateSet group="usergroup_api_swagger">
-  <template name="lt_api_property_model" value="@ApiModelProperty(value = &quot;$END$&quot;,required = true)" description="@ApiModelProperty-字段增加swagger" toReformat="false" toShortenFQNames="true">
+  <template name="lt_api_property_model" value="@ApiModelProperty(value = &quot;$END$&quot;,required = false)" description="@ApiModelProperty-字段增加swagger" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
