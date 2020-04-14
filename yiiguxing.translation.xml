@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="permission" />
+      <item value="授" />
+      <item value="auth" />
+      <item value="权限" />
+      <item value="用户权限" />
       <item value="spelling" />
       <item value="grammar" />
       <item value="接口测试" />
@@ -46,16 +51,11 @@
       <item value="Circuit Breaker" />
       <item value="Features" />
       <item value="tra" />
-      <item value="distr" />
-      <item value="registry" />
-      <item value="regist" />
-      <item value="hierarchical-multi-select" />
-      <item value="listener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="63" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
