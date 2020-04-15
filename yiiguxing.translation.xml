@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="虚拟" />
       <item value="用户明细" />
       <item value="解除" />
       <item value="解绑" />
@@ -50,7 +51,6 @@
       <item value="Value converter (a single value counts '1')" />
       <item value="extractor" />
       <item value="Table configuration with catalog null, schema log, and table ConfigLog did not resolve to any tables" />
-      <item value="Field injection is not recommended" />
     </histories>
     <option name="languageScores">
       <map>
