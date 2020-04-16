@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Virtual" />
       <item value="Partition" />
       <item value="虚拟" />
       <item value="用户明细" />
@@ -50,7 +51,6 @@
       <item value="with an explicit Types value to specify the type to use" />
       <item value="BinaryOperator" />
       <item value="Value converter (a single value counts '1')" />
-      <item value="extractor" />
     </histories>
     <option name="languageScores">
       <map>
