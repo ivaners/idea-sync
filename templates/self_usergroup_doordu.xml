@@ -44,8 +44,8 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_doordu_appsdk" value="public $CUR_CLASS_NAME$() {&#10;&#10;}&#10;&#10;public void post() {&#10;    String body = &quot;&quot;;&#10;&#10;    String content = TestHttp.post(this&#10;            , &quot;&quot;&#10;            , body);&#10;&#10;    System.out.println(content);&#10;}&#10;&#10;public static void main(String[] args) {&#10;    new $CUR_CLASS_NAME$().post();&#10;}&#10; " description="appsdk测试" toReformat="false" toShortenFQNames="true">
-    <variable name="CUR_CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+  <template name="lt_doordu_appsdk" value="public static void post( ) {&#10;    $CURRENT_CLASS$ instance = new $CURRENT_CLASS$();&#10;&#10;    String content = TestHttp.post(instance&#10;            , &quot;&quot;);&#10;&#10;    System.out.println(content);&#10;}&#10;&#10;public static void main(String[] args) {&#10;    $CURRENT_CLASS$.post();&#10;}" description="appsdk测试" toReformat="false" toShortenFQNames="true">
+    <variable name="CURRENT_CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
