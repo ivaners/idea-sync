@@ -1,4 +1,4 @@
-<templateSet group="usergroup_springboot">
+<templateSet group="self_usergroup_springboot">
   <template name="lt_sp_cls" value="$CURRENT_CLASS$.class" description="输出当前类路径" toReformat="false" toShortenFQNames="true">
     <variable name="CURRENT_CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
