@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="个人" />
       <item value="Virtual" />
       <item value="Partition" />
       <item value="虚拟" />
@@ -50,12 +51,11 @@
       <item value="transport" />
       <item value="with an explicit Types value to specify the type to use" />
       <item value="BinaryOperator" />
-      <item value="Value converter (a single value counts '1')" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="ENGLISH" value="65" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>

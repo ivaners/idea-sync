@@ -1,4 +1,4 @@
-<templateSet group="usergroup_doordu">
+<templateSet group="self_usergroup_doordu">
   <template name="lt_doordu_httpBuilder" value="/**&#10; * &#10; */&#10;public static void main(String[]args){&#10;    java.util.Map&lt;String, String&gt; params = com.google.common.collect.Maps.newHashMap();&#10;&#10;    params.put(&quot;&quot;, &quot;&quot;);&#10;    params.put(&quot;&quot;, &quot;&quot;);&#10;&#10;    String content = new DoorduBaseTestCase.Builder()&#10;            .map(params)&#10;            .path(&quot;&quot;)&#10;            .post();&#10;&#10;    System.out.println(content);&#10;}" description="多度接口调用Main" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
@@ -44,8 +44,8 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_doordu_appsdk" value="public $CUR_CLASS_NAME$() {&#10;&#10;}&#10;&#10;public void post() {&#10;    String body = &quot;&quot;;&#10;&#10;    String content = TestHttp.post(this&#10;            , &quot;&quot;&#10;            , body);&#10;&#10;    System.out.println(content);&#10;}&#10;&#10;public static void main(String[] args) {&#10;    new $CUR_CLASS_NAME$().post();&#10;}&#10; " description="appsdk测试" toReformat="false" toShortenFQNames="true">
-    <variable name="CUR_CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+  <template name="lt_doordu_appsdk" value="public static void post( ) {&#10;    $CURRENT_CLASS$ instance = new $CURRENT_CLASS$();&#10;&#10;    String content = TestHttp.post(instance&#10;            , &quot;&quot;);&#10;&#10;    System.out.println(content);&#10;}&#10;&#10;public static void main(String[] args) {&#10;    $CURRENT_CLASS$.post();&#10;}" description="appsdk测试" toReformat="false" toShortenFQNames="true">
+    <variable name="CURRENT_CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>

@@ -1,4 +1,4 @@
-<templateSet group="usergroup_api_swagger">
+<templateSet group="self_usergroup_api_swagger">
   <template name="lt_api_property_model_false" value="@DataValid(description =&quot;&quot;,nullable = false)&#10;@ApiModelProperty(value = &quot;&quot;,required = false)" description="@ApiModelProperty-字段增加swagger" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
