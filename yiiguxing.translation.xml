@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Duplicate" />
       <item value="个人" />
       <item value="Virtual" />
       <item value="Partition" />
@@ -50,11 +51,10 @@
       <item value="Indicates how much time (in seconds) that the HTTP connections to eureka server can stay idle before it can be closed. In the AWS environment, it is recommended that the values is 30 seconds or less, since the firewall cleans up the connection information after a few mins leaving the connection hanging in limbo." />
       <item value="transport" />
       <item value="with an explicit Types value to specify the type to use" />
-      <item value="BinaryOperator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
+        <entry key="CHINESE" value="65" />
         <entry key="ENGLISH" value="65" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
