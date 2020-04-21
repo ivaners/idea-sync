@@ -50,4 +50,15 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="lt_doordu_datavalid" value="@DataValid(description = &quot;&quot;)" description="多度的WebMvc校验参数注解" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_doordu_appsdk_map" value="public static void post( ) {&#10;    $CURRENT_CLASS$ instance = new $CURRENT_CLASS$();&#10;&#10;    String content = TestHttp.postMap(instance&#10;            , &quot;&quot;);&#10;&#10;    System.out.println(content);&#10;}&#10;&#10;public static void main(String[] args) {&#10;    $CURRENT_CLASS$.post();&#10;}" description="appsdk测试" toReformat="false" toShortenFQNames="true">
+    <variable name="CURRENT_CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
