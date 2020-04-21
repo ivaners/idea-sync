@@ -5,16 +5,18 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_method_author" value="/**&#10;*@Description: $discription$&#10;*@Param: $params$&#10;*@return: $return$&#10;*@Author: huaiao&#10;*@date: $date$&#10;*/" description="java添加类方法说明" toReformat="false" toShortenFQNames="true">
-    <variable name="discription" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
-    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
-    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+  <template name="lt_author_method" value="/**&#10; * $index$&#10;$params$&#10; * @return: $return$&#10; * @author: huaiao&#10; * @date: $DATE$-$TIME$&#10;*/" description="java添加类方法说明" toReformat="false" toShortenFQNames="true">
+    <variable name="index" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 0; i &lt; params.size(); i++) {result+=' * @param ' + params[i] + ((i &lt; params.size() - 1) ? '\\n' : '')}; return result&quot;, methodParameters())" defaultValue="" alwaysStopAt="true" />
+    <variable name="return" expression="groovyScript(&quot;def result=\&quot;${_1}\&quot;; if(result == \&quot;void\&quot;){return \&quot;\&quot;;}else{return \&quot;{@link \&quot;+result+\&quot;}\&quot;;}&quot;, methodReturnType())" defaultValue="" alwaysStopAt="true" />
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_class_author" value="/**&#10; *@description: &#10; *@author: huaiao&#10; *@create: $DATE$-$TIME$&#10; */" description="java添加类说明" toReformat="false" toShortenFQNames="true">
+  <template name="lt_author_class" value="/**&#10; * $index$&#10; * @author: huaiao&#10; * @create: $DATE$-$TIME$&#10; */" description="java添加类说明" toReformat="false" toShortenFQNames="true">
+    <variable name="index" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="true" />
     <context>
