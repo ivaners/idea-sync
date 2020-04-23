@@ -1,5 +1,5 @@
 <templateSet group="self_usergroup_base">
-  <template name="lt_log_slf4j" value="    // Logger打印日志对象&#10;    private static org.slf4j.Logger logger = org.slf4j.LoggerFactory.getLogger($CURRENT_CLASS$.class.getName());$END$" description="logger日志对象" toReformat="false" toShortenFQNames="true">
+  <template name="lt_log_slf4j" value="  // Logger打印日志对象&#10;  private static org.slf4j.Logger logger = org.slf4j.LoggerFactory.getLogger($CURRENT_CLASS$.class.getName());$END$" description="logger日志对象" toReformat="false" toShortenFQNames="true">
     <variable name="CURRENT_CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
