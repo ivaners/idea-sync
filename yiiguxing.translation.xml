@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="considered " />
+      <item value="is considered as a Ref to a branch" />
+      <item value="escape" />
+      <item value="厂商" />
+      <item value="签名" />
       <item value="社管" />
       <item value="Duplicate" />
       <item value="个人" />
@@ -46,15 +51,10 @@
       <item value="Hystrix circuit short-circuited and is OPEN" />
       <item value="Gets the proxy port to eureka server if any" />
       <item value="Renews" />
-      <item value="Flag to enable the Eureka dashboard. Default true" />
-      <item value="The path to the Eureka dashboard (relative to the servlet path). Defaults to" />
-      <item value="archaius" />
-      <item value="Indicates how much time (in seconds) that the HTTP connections to eureka server can stay idle before it can be closed. In the AWS environment, it is recommended that the values is 30 seconds or less, since the firewall cleans up the connection information after a few mins leaving the connection hanging in limbo." />
-      <item value="transport" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
+        <entry key="CHINESE" value="66" />
         <entry key="ENGLISH" value="66" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
