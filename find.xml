@@ -17,7 +17,7 @@
     <mask>*Dto.java</mask>
     <mask>*.properties</mask>
     <mask>*Control*.java</mask>
-    <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
