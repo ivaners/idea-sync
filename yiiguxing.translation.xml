@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="due" />
+      <item value="due to exception" />
       <item value="Untracked" />
       <item value="considered " />
       <item value="is considered as a Ref to a branch" />
@@ -49,8 +51,6 @@
       <item value="源码" />
       <item value="metrics" />
       <item value="compression" />
-      <item value="Hystrix circuit short-circuited and is OPEN" />
-      <item value="Gets the proxy port to eureka server if any" />
     </histories>
     <option name="languageScores">
       <map>
