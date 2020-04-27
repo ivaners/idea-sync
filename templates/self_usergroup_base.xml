@@ -5,7 +5,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_author_method" value="/**&#10; * $index$&#10; * @param: $params$&#10; * @return: $return$&#10; * @author: huaiao&#10; * @date: $DATE$-$TIME$&#10;*/" description="java添加类方法说明" toReformat="false" toShortenFQNames="true">
+  <template name="lt_method_author" value="/**&#10; * $index$&#10; * @param: $params$&#10; * @return: $return$&#10; * @author: huaiao&#10; * @date: $DATE$-$TIME$&#10;*/" description="java添加类方法说明" toReformat="false" toShortenFQNames="true">
     <variable name="index" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
     <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
@@ -15,7 +15,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_author_class" value="/**&#10; * $index$&#10; * @author: huaiao&#10; * @create: $DATE$-$TIME$&#10; */" description="java添加类说明" toReformat="false" toShortenFQNames="true">
+  <template name="lt_class_author" value="/**&#10; * $index$&#10; * @author: huaiao&#10; * @create: $DATE$-$TIME$&#10; */" description="java添加类说明" toReformat="false" toShortenFQNames="true">
     <variable name="index" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="true" />
@@ -35,12 +35,12 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_endtime" value="long endTime = System.currentTimeMillis();&#10;double seconds = (endTime - beginTime) / 1000.00;&#10;&#10;logger.warn(&quot;$END$接口耗时:{}秒~&quot;,seconds);" description="打印接口耗时-endtime" toReformat="false" toShortenFQNames="true">
+  <template name="lt_endtime" value="Profilter&#10;&#10;logger.warn(&quot;$END$接口耗时:{}秒~&quot;,seconds);" description="打印接口耗时-endtime" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_begintime" value="$END$long beginTime = System.currentTimeMillis();" description="打印接口耗时-begintime" toReformat="false" toShortenFQNames="true">
+  <template name="lt_begintime" value="Profilter" description="打印接口耗时-begintime" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -51,7 +51,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_end_sout_time" value="long endTime = System.currentTimeMillis();&#10;double seconds = (endTime - beginTime) / 1000.00;&#10;&#10;System.out.println(&quot;接口耗时:{&quot; + seconds + &quot;}秒~&quot;);" description="打印接口耗时-endtime" toReformat="false" toShortenFQNames="true">
+  <template name="lt_end_sout_time" value="Profilter&#10;&#10;System.out.println(&quot;接口耗时:{&quot; + seconds + &quot;}秒~&quot;);" description="打印接口耗时-endtime" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
