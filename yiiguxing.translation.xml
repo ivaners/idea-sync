@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="recycle" />
       <item value="due" />
       <item value="due to exception" />
       <item value="Untracked" />
@@ -50,7 +51,6 @@
       <item value="Note that this implementation is not synchronized." />
       <item value="源码" />
       <item value="metrics" />
-      <item value="compression" />
     </histories>
     <option name="languageScores">
       <map>
