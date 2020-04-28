@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="folder" />
+      <item value="floder" />
+      <item value="多线程" />
+      <item value="processing" />
       <item value="recycle" />
       <item value="due" />
       <item value="due to exception" />
@@ -47,15 +51,11 @@
       <item value="排除" />
       <item value="Minutes" />
       <item value="Timeliness" />
-      <item value="时效性" />
-      <item value="Note that this implementation is not synchronized." />
-      <item value="源码" />
-      <item value="metrics" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="67" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>

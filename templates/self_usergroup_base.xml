@@ -35,12 +35,13 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_endtime" value="Profilter&#10;&#10;logger.warn(&quot;$END$接口耗时:{}秒~&quot;,seconds);" description="打印接口耗时-endtime" toReformat="false" toShortenFQNames="true">
+  <template name="lt_time_end" value="long timeMillis = Profiler.end();&#10;logger.warn(&quot;$current$接口耗时毫秒数:{}&quot;,timeMillis);" description="打印接口耗时-endtime" toReformat="false" toShortenFQNames="true">
+    <variable name="current" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_begintime" value="Profilter" description="打印接口耗时-begintime" toReformat="false" toShortenFQNames="true">
+  <template name="lt_time_begin" value="Profiler.begin();" description="打印接口耗时-begintime" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -51,7 +52,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_end_sout_time" value="Profilter&#10;&#10;System.out.println(&quot;接口耗时:{&quot; + seconds + &quot;}秒~&quot;);" description="打印接口耗时-endtime" toReformat="false" toShortenFQNames="true">
+  <template name="lt_time_end_sout" value="long timeMillis = Profiler.end();&#10;System.out.println(StrUtil.format(&quot;接口耗时毫秒数:{}&quot;, timeMillis));" description="打印接口耗时-endtime" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
