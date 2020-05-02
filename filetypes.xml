@@ -2,10 +2,12 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.iml;*.ipr;*.iws;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.classpath;.git;.git-rewrite;.gitattributes;.gradle;.hg;.idea;.mvn;.project;.rebel-remote.xml*;.settings;.svn;CVS;HELP.md;__pycache__;_svn;git.properties;mvnw;mvnw.cmd;target;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="application" type="PLAIN_TEXT" />
       <mapping pattern="SpringBoot 中 @ConfigurationProperties 配置后 apollo 自动刷新。md" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="setting" type="PLAIN_TEXT" />
-      <mapping ext="gradle.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>

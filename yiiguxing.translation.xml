@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="软件" />
+      <item value="folder" />
+      <item value="floder" />
+      <item value="多线程" />
+      <item value="processing" />
+      <item value="recycle" />
+      <item value="due" />
+      <item value="due to exception" />
       <item value="Untracked" />
       <item value="considered " />
       <item value="is considered as a Ref to a branch" />
@@ -43,19 +51,11 @@
       <item value="业主" />
       <item value="排除" />
       <item value="Minutes" />
-      <item value="Timeliness" />
-      <item value="时效性" />
-      <item value="Note that this implementation is not synchronized." />
-      <item value="源码" />
-      <item value="metrics" />
-      <item value="compression" />
-      <item value="Hystrix circuit short-circuited and is OPEN" />
-      <item value="Gets the proxy port to eureka server if any" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="68" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
