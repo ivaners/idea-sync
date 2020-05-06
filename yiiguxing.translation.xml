@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="商城" />
+      <item value="mall" />
       <item value="软件" />
       <item value="folder" />
       <item value="floder" />
@@ -49,13 +51,11 @@
       <item value="Secure" />
       <item value="contact" />
       <item value="业主" />
-      <item value="排除" />
-      <item value="Minutes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
