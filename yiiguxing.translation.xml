@@ -1,6 +1,40 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="商城" />
+      <item value="mall" />
+      <item value="活动" />
+      <item value="人数" />
+      <item value="原价" />
+      <item value="下架" />
+      <item value="上架" />
+      <item value="链接" />
+      <item value="跳转" />
+      <item value="素材" />
+      <item value="店铺" />
+      <item value="underline" />
+      <item value="Underline" />
+      <item value="划线" />
+      <item value="Original" />
+      <item value="price" />
+      <item value="归属" />
+      <item value="货物" />
+      <item value="商米" />
+      <item value="商品" />
+      <item value="goods" />
+      <item value="best" />
+      <item value="recommend" />
+      <item value="推荐" />
+      <item value="好" />
+      <item value="好物" />
+      <item value="优品" />
+      <item value="荐" />
+      <item value="建议" />
+      <item value="拼团" />
+      <item value="record" />
+      <item value="produce" />
+      <item value="团" />
+      <item value="团购" />
       <item value="软件" />
       <item value="folder" />
       <item value="floder" />
@@ -17,45 +51,11 @@
       <item value="签名" />
       <item value="社管" />
       <item value="Duplicate" />
-      <item value="个人" />
-      <item value="Virtual" />
-      <item value="Partition" />
-      <item value="虚拟" />
-      <item value="用户明细" />
-      <item value="解除" />
-      <item value="解绑" />
-      <item value="样式" />
-      <item value="状态" />
-      <item value="Fuzziness" />
-      <item value="resolutionFuzziness" />
-      <item value="unable to be deleted" />
-      <item value=" unable to be deleted" />
-      <item value="permission" />
-      <item value="授" />
-      <item value="auth" />
-      <item value="权限" />
-      <item value="用户权限" />
-      <item value="spelling" />
-      <item value="grammar" />
-      <item value="接口测试" />
-      <item value="service" />
-      <item value="server" />
-      <item value="stopPruning" />
-      <item value="javassist" />
-      <item value="instrument" />
-      <item value="监控" />
-      <item value="pinpoint" />
-      <item value="Builtin" />
-      <item value="Secure" />
-      <item value="contact" />
-      <item value="业主" />
-      <item value="排除" />
-      <item value="Minutes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="74" />
+        <entry key="ENGLISH" value="75" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
