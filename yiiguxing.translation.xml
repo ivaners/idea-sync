@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="goods" />
+      <item value="sale" />
       <item value="advince" />
       <item value="建议" />
       <item value="suggest" />
@@ -27,7 +29,6 @@
       <item value="货物" />
       <item value="商米" />
       <item value="商品" />
-      <item value="goods" />
       <item value="best" />
       <item value="好" />
       <item value="好物" />
@@ -50,7 +51,6 @@
       <item value="considered " />
       <item value="is considered as a Ref to a branch" />
       <item value="escape" />
-      <item value="厂商" />
     </histories>
     <option name="languageScores">
       <map>
