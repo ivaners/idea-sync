@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ARGS" />
       <item value="商城" />
       <item value="mall" />
       <item value="活动" />
@@ -50,11 +51,10 @@
       <item value="厂商" />
       <item value="签名" />
       <item value="社管" />
-      <item value="Duplicate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
+        <entry key="CHINESE" value="75" />
         <entry key="ENGLISH" value="75" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
