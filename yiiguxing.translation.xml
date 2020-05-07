@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="away" />
+      <item value="right away" />
+      <item value="马上" />
+      <item value="立马上" />
+      <item value="立即" />
       <item value="会话" />
       <item value="监控" />
       <item value="原因" />
@@ -46,15 +51,10 @@
       <item value="荐" />
       <item value="拼团" />
       <item value="record" />
-      <item value="produce" />
-      <item value="团" />
-      <item value="团购" />
-      <item value="软件" />
-      <item value="folder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
+        <entry key="CHINESE" value="78" />
         <entry key="ENGLISH" value="78" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
