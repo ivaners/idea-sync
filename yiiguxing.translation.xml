@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="会话" />
+      <item value="监控" />
+      <item value="原因" />
+      <item value="releason" />
       <item value="link" />
       <item value="be linked" />
       <item value="关联" />
@@ -47,15 +51,11 @@
       <item value="团购" />
       <item value="软件" />
       <item value="folder" />
-      <item value="floder" />
-      <item value="多线程" />
-      <item value="processing" />
-      <item value="recycle" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="ENGLISH" value="78" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
