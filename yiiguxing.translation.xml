@@ -1,7 +1,30 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="ARGS" />
+      <item value="表空间" />
+      <item value="away" />
+      <item value="right away" />
+      <item value="马上" />
+      <item value="立马上" />
+      <item value="立即" />
+      <item value="会话" />
+      <item value="监控" />
+      <item value="原因" />
+      <item value="releason" />
+      <item value="link" />
+      <item value="be linked" />
+      <item value="关联" />
+      <item value="下发" />
+      <item value="前端" />
+      <item value="数据库" />
+      <item value="goods" />
+      <item value="sale" />
+      <item value="advince" />
+      <item value="建议" />
+      <item value="suggest" />
+      <item value="recommend" />
+      <item value="propose" />
+      <item value="推荐" />
       <item value="商城" />
       <item value="mall" />
       <item value="活动" />
@@ -22,40 +45,17 @@
       <item value="货物" />
       <item value="商米" />
       <item value="商品" />
-      <item value="goods" />
       <item value="best" />
-      <item value="recommend" />
-      <item value="推荐" />
       <item value="好" />
       <item value="好物" />
       <item value="优品" />
       <item value="荐" />
-      <item value="建议" />
       <item value="拼团" />
-      <item value="record" />
-      <item value="produce" />
-      <item value="团" />
-      <item value="团购" />
-      <item value="软件" />
-      <item value="folder" />
-      <item value="floder" />
-      <item value="多线程" />
-      <item value="processing" />
-      <item value="recycle" />
-      <item value="due" />
-      <item value="due to exception" />
-      <item value="Untracked" />
-      <item value="considered " />
-      <item value="is considered as a Ref to a branch" />
-      <item value="escape" />
-      <item value="厂商" />
-      <item value="签名" />
-      <item value="社管" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="79" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
