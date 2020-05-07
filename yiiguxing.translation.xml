@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="advince" />
+      <item value="建议" />
+      <item value="suggest" />
+      <item value="recommend" />
+      <item value="propose" />
+      <item value="推荐" />
       <item value="商城" />
       <item value="mall" />
       <item value="活动" />
@@ -23,13 +29,10 @@
       <item value="商品" />
       <item value="goods" />
       <item value="best" />
-      <item value="recommend" />
-      <item value="推荐" />
       <item value="好" />
       <item value="好物" />
       <item value="优品" />
       <item value="荐" />
-      <item value="建议" />
       <item value="拼团" />
       <item value="record" />
       <item value="produce" />
@@ -48,14 +51,11 @@
       <item value="is considered as a Ref to a branch" />
       <item value="escape" />
       <item value="厂商" />
-      <item value="签名" />
-      <item value="社管" />
-      <item value="Duplicate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="76" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
