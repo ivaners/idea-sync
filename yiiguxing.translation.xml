@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lsattr" />
+      <item value="chattr" />
       <item value="Virtualization" />
       <item value="Virtuali" />
       <item value="虚拟化" />
@@ -49,8 +51,6 @@
       <item value="归属" />
       <item value="货物" />
       <item value="商米" />
-      <item value="商品" />
-      <item value="best" />
     </histories>
     <option name="languageScores">
       <map>
