@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="lsattr" />
-      <item value="chattr" />
+      <item value="推荐" />
+      <item value="The error may involve defaultParameterMap" />
+      <item value="The error occurred while setting parameters" />
+      <item value="ORDER/GROUP BY expression not found in targetlist" />
       <item value="Virtualization" />
       <item value="Virtuali" />
       <item value="虚拟化" />
@@ -31,7 +33,6 @@
       <item value="suggest" />
       <item value="recommend" />
       <item value="propose" />
-      <item value="推荐" />
       <item value="商城" />
       <item value="mall" />
       <item value="活动" />
@@ -50,12 +51,11 @@
       <item value="price" />
       <item value="归属" />
       <item value="货物" />
-      <item value="商米" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="ENGLISH" value="81" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
