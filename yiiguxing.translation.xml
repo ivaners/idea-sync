@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The error may involve defaultParameterMap" />
+      <item value="The error occurred while setting parameters" />
       <item value="ORDER/GROUP BY expression not found in targetlist" />
       <item value="Virtualization" />
       <item value="Virtuali" />
@@ -49,8 +51,6 @@
       <item value="price" />
       <item value="归属" />
       <item value="货物" />
-      <item value="商米" />
-      <item value="商品" />
     </histories>
     <option name="languageScores">
       <map>
