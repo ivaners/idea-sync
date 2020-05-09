@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Mapper.xml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -12,12 +13,13 @@
     <mask>*.yml</mask>
     <mask>*Contr.*</mask>
     <mask>*.*</mask>
-    <mask>*.xml</mask>
     <mask>*Dto.java</mask>
     <mask>*.java</mask>
     <mask>*Vo.java</mask>
     <mask>*Control*.java</mask>
     <mask>pom.xml</mask>
     <mask>*.properties</mask>
+    <mask>*.xml</mask>
+    <mask>*Mapper.xml</mask>
   </component>
 </application>
