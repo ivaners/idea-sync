@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="时间戳" />
+      <item value="时间错" />
       <item value="There was an issue looking up your account. Tap Next to try again." />
       <item value="again" />
       <item value="再一次" />
@@ -49,13 +51,11 @@
       <item value="素材" />
       <item value="店铺" />
       <item value="underline" />
-      <item value="Underline" />
-      <item value="划线" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="ENGLISH" value="82" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
