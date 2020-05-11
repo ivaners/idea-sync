@@ -15,10 +15,10 @@
     <mask>*Dto.java</mask>
     <mask>*Vo.java</mask>
     <mask>*Control*.java</mask>
-    <mask>pom.xml</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*Mapper.xml</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
