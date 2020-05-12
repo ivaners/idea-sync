@@ -14,6 +14,8 @@
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="ide.intellij.laf.enable.animation" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="BSP.system.in.process" value="true" />
+    <entry key="SBT.system.in.process" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
