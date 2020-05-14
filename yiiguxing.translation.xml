@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="popularize" />
+      <item value="popular" />
+      <item value="推广" />
+      <item value="puji" />
+      <item value="user-agent" />
+      <item value="user" />
+      <item value="arithmetic" />
+      <item value="algorithm" />
+      <item value="算法" />
+      <item value="market" />
+      <item value="应用市场" />
+      <item value="二维码" />
+      <item value="而无那" />
+      <item value="代码拉取" />
+      <item value="时间" />
       <item value="进行" />
       <item value="预热" />
       <item value="async" />
@@ -36,26 +51,11 @@
       <item value="下发" />
       <item value="前端" />
       <item value="数据库" />
-      <item value="goods" />
-      <item value="sale" />
-      <item value="advince" />
-      <item value="建议" />
-      <item value="suggest" />
-      <item value="recommend" />
-      <item value="propose" />
-      <item value="商城" />
-      <item value="mall" />
-      <item value="活动" />
-      <item value="人数" />
-      <item value="原价" />
-      <item value="下架" />
-      <item value="上架" />
-      <item value="链接" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="89" />
+        <entry key="ENGLISH" value="89" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
