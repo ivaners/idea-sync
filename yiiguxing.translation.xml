@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="campain" />
+      <item value="Campain" />
       <item value="popularize" />
       <item value="popular" />
       <item value="推广" />
@@ -49,8 +51,6 @@
       <item value="be linked" />
       <item value="关联" />
       <item value="下发" />
-      <item value="前端" />
-      <item value="数据库" />
     </histories>
     <option name="languageScores">
       <map>
