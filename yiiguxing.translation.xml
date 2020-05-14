@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="popularize" />
+      <item value="popular" />
+      <item value="推广" />
+      <item value="puji" />
       <item value="user-agent" />
       <item value="user" />
       <item value="arithmetic" />
@@ -47,15 +51,11 @@
       <item value="下发" />
       <item value="前端" />
       <item value="数据库" />
-      <item value="goods" />
-      <item value="sale" />
-      <item value="advince" />
-      <item value="建议" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="CHINESE" value="89" />
+        <entry key="ENGLISH" value="89" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
