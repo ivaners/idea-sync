@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="user-agent" />
+      <item value="user" />
       <item value="arithmetic" />
       <item value="algorithm" />
       <item value="算法" />
@@ -49,8 +51,6 @@
       <item value="sale" />
       <item value="advince" />
       <item value="建议" />
-      <item value="suggest" />
-      <item value="recommend" />
     </histories>
     <option name="languageScores">
       <map>
