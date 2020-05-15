@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mnemonic" />
+      <item value="Mnemonic " />
+      <item value="Opcode" />
+      <item value="in hex" />
+      <item value="store a reference into local variable 0" />
+      <item value="invoke virtual method on object objectref and puts the result on the stack (might be void); the method is identified by method reference index in constant pool (indexbyte1 &lt;&lt; 8 + indexbyte2)" />
+      <item value="invoke a static method and puts the result on the stack (might be void); the method is identified by method reference index in constant pool (indexbyte1 &lt;&lt; 8 + indexbyte2)" />
+      <item value="add two ints" />
+      <item value="load the int value 1 onto the stack" />
+      <item value="heap" />
+      <item value="stack " />
       <item value="LOCK" />
       <item value="Java bytecode instruction listings" />
       <item value="封装" />
@@ -40,17 +51,6 @@
       <item value="Virtuali" />
       <item value="虚拟化" />
       <item value="版本控制" />
-      <item value="folder" />
-      <item value="表空间" />
-      <item value="away" />
-      <item value="right away" />
-      <item value="马上" />
-      <item value="立马上" />
-      <item value="立即" />
-      <item value="会话" />
-      <item value="监控" />
-      <item value="原因" />
-      <item value="releason" />
     </histories>
     <option name="languageScores">
       <map>
