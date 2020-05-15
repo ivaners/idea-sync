@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mnemonic" />
+      <item value="Mnemonic " />
+      <item value="Opcode" />
+      <item value="in hex" />
+      <item value="store a reference into local variable 0" />
+      <item value="invoke virtual method on object objectref and puts the result on the stack (might be void); the method is identified by method reference index in constant pool (indexbyte1 &lt;&lt; 8 + indexbyte2)" />
+      <item value="invoke a static method and puts the result on the stack (might be void); the method is identified by method reference index in constant pool (indexbyte1 &lt;&lt; 8 + indexbyte2)" />
+      <item value="add two ints" />
+      <item value="load the int value 1 onto the stack" />
+      <item value="heap" />
+      <item value="stack " />
+      <item value="LOCK" />
+      <item value="Java bytecode instruction listings" />
+      <item value="封装" />
+      <item value="Interview" />
+      <item value="面试" />
       <item value="分布式事务" />
       <item value="popularize" />
       <item value="popular" />
@@ -35,27 +51,11 @@
       <item value="Virtuali" />
       <item value="虚拟化" />
       <item value="版本控制" />
-      <item value="folder" />
-      <item value="表空间" />
-      <item value="away" />
-      <item value="right away" />
-      <item value="马上" />
-      <item value="立马上" />
-      <item value="立即" />
-      <item value="会话" />
-      <item value="监控" />
-      <item value="原因" />
-      <item value="releason" />
-      <item value="link" />
-      <item value="be linked" />
-      <item value="关联" />
-      <item value="下发" />
-      <item value="前端" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE" value="91" />
+        <entry key="ENGLISH" value="91" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
