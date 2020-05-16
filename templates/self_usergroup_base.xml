@@ -35,8 +35,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_time_end" value="long timeMillis = Profiler.end();&#10;logger.warn(&quot;$current$接口耗时毫秒数:{}&quot;,timeMillis);" description="打印接口耗时-endtime" toReformat="false" toShortenFQNames="true">
-    <variable name="current" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="lt_time_end" value="long timeMillis = Profiler.end();" description="打印接口耗时-endtime" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
