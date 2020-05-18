@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="开源" />
+      <item value="开元、" />
       <item value="o" />
       <item value="crypt" />
       <item value="加密" />
@@ -49,13 +51,11 @@
       <item value="重新" />
       <item value="推荐" />
       <item value="The error may involve defaultParameterMap" />
-      <item value="The error occurred while setting parameters" />
-      <item value="ORDER/GROUP BY expression not found in targetlist" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="92" />
+        <entry key="ENGLISH" value="93" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
