@@ -1,8 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="开源" />
-      <item value="开元、" />
+      <item value="聚合" />
+      <item value="集合" />
+      <item value="engineer" />
+      <item value="高级工程师" />
+      <item value="架构师" />
+      <item value="高级" />
+      <item value="成长" />
       <item value="o" />
       <item value="crypt" />
       <item value="加密" />
@@ -46,16 +51,11 @@
       <item value="时间戳" />
       <item value="时间错" />
       <item value="There was an issue looking up your account. Tap Next to try again." />
-      <item value="again" />
-      <item value="再一次" />
-      <item value="重新" />
-      <item value="推荐" />
-      <item value="The error may involve defaultParameterMap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="94" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
