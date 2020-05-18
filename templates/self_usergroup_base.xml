@@ -35,7 +35,8 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_time_end" value="long timeMillis = Profiler.end();" description="打印接口耗时-endtime" toReformat="false" toShortenFQNames="true">
+  <template name="lt_time_end" value="long timeMillis = Profiler.end();&#10;logger.warn(&quot;$current$接口耗时毫秒数:{}&quot;,timeMillis);" description="打印接口耗时-endtime" toReformat="false" toShortenFQNames="true">
+    <variable name="current" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -63,6 +64,11 @@
   </template>
   <template name="lt_new" value="$CURRENT_CLASS$ instance  = new $CURRENT_CLASS$();" description="实例化当前类" toReformat="false" toShortenFQNames="true">
     <variable name="CURRENT_CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="psf_private" value="/**&#10; *&#10; */&#10;private static final " description="private static final" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
