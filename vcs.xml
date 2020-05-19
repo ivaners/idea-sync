@@ -22,6 +22,10 @@
           <option name="url" value="http://gitlab.doordu.com:7701" />
           <option name="userName" value="chenha@doordu.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.0.0.237" />
+          <option name="userName" value="chenha@doordu.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\" />
