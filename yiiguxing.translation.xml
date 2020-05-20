@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="库" />
+      <item value="操作" />
+      <item value="管理" />
+      <item value="ip" />
+      <item value="地址" />
       <item value="release" />
       <item value="tech" />
       <item value="技术" />
@@ -46,16 +51,11 @@
       <item value="user-agent" />
       <item value="user" />
       <item value="arithmetic" />
-      <item value="algorithm" />
-      <item value="算法" />
-      <item value="market" />
-      <item value="应用市场" />
-      <item value="二维码" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="97" />
-        <entry key="ENGLISH" value="97" />
+        <entry key="CHINESE" value="98" />
+        <entry key="ENGLISH" value="99" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
