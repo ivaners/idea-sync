@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="consumer" />
+      <item value="root" />
+      <item value="is duplicated in module" />
       <item value="库" />
       <item value="操作" />
       <item value="管理" />
@@ -48,13 +51,10 @@
       <item value="popular" />
       <item value="推广" />
       <item value="puji" />
-      <item value="user-agent" />
-      <item value="user" />
-      <item value="arithmetic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
+        <entry key="CHINESE" value="99" />
         <entry key="ENGLISH" value="99" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>

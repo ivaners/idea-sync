@@ -10,9 +10,6 @@
     <option name="FONT_SIZE" value="12" />
     <option name="LINE_SPACING" value="1.1" />
   </component>
-  <component name="EditorSettings">
-    <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
-  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
   </component>
