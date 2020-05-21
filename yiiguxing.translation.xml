@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="进行" />
-      <item value="预热" />
-      <item value="async" />
-      <item value="注解" />
-      <item value="时间戳" />
-      <item value="时间错" />
-      <item value="There was an issue looking up your account. Tap Next to try again." />
-      <item value="again" />
-      <item value="再一次" />
-      <item value="重新" />
-      <item value="推荐" />
-      <item value="The error may involve defaultParameterMap" />
-      <item value="The error occurred while setting parameters" />
-      <item value="ORDER/GROUP BY expression not found in targetlist" />
-      <item value="Virtualization" />
-      <item value="Virtuali" />
-      <item value="虚拟化" />
-      <item value="版本控制" />
-      <item value="folder" />
-      <item value="表空间" />
-      <item value="away" />
-      <item value="right away" />
-      <item value="马上" />
-      <item value="立马上" />
-      <item value="立即" />
-      <item value="会话" />
-      <item value="监控" />
-      <item value="原因" />
-      <item value="releason" />
-      <item value="link" />
-      <item value="be linked" />
-      <item value="关联" />
-      <item value="下发" />
-      <item value="前端" />
-      <item value="数据库" />
-      <item value="goods" />
-      <item value="sale" />
-      <item value="advince" />
-      <item value="建议" />
-      <item value="suggest" />
-      <item value="recommend" />
-      <item value="propose" />
-      <item value="商城" />
-      <item value="mall" />
-      <item value="活动" />
-      <item value="人数" />
-      <item value="原价" />
-      <item value="下架" />
-      <item value="上架" />
-      <item value="链接" />
+      <item value="is duplicated in module" />
+      <item value="库" />
+      <item value="操作" />
+      <item value="管理" />
+      <item value="ip" />
+      <item value="地址" />
+      <item value="release" />
+      <item value="tech" />
+      <item value="技术" />
+      <item value="coders" />
+      <item value="coder" />
+      <item value="program" />
+      <item value="编程" />
+      <item value="程序员" />
+      <item value="ddap-micro-services" />
+      <item value="splitter" />
+      <item value="聚合" />
+      <item value="集合" />
+      <item value="engineer" />
+      <item value="高级工程师" />
+      <item value="架构师" />
+      <item value="高级" />
+      <item value="成长" />
+      <item value="o" />
+      <item value="crypt" />
+      <item value="加密" />
+      <item value="crypto" />
+      <item value="Mnemonic" />
+      <item value="Mnemonic " />
+      <item value="Opcode" />
+      <item value="in hex" />
+      <item value="store a reference into local variable 0" />
+      <item value="invoke virtual method on object objectref and puts the result on the stack (might be void); the method is identified by method reference index in constant pool (indexbyte1 &lt;&lt; 8 + indexbyte2)" />
+      <item value="invoke a static method and puts the result on the stack (might be void); the method is identified by method reference index in constant pool (indexbyte1 &lt;&lt; 8 + indexbyte2)" />
+      <item value="add two ints" />
+      <item value="load the int value 1 onto the stack" />
+      <item value="heap" />
+      <item value="stack " />
+      <item value="LOCK" />
+      <item value="Java bytecode instruction listings" />
+      <item value="封装" />
+      <item value="Interview" />
+      <item value="面试" />
+      <item value="分布式事务" />
+      <item value="popularize" />
+      <item value="popular" />
+      <item value="推广" />
+      <item value="puji" />
+      <item value="user-agent" />
+      <item value="user" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="99" />
+        <entry key="ENGLISH" value="99" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
