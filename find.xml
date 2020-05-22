@@ -17,10 +17,10 @@
     <mask>*Control*.java</mask>
     <mask>*.properties</mask>
     <mask>*Mapper.xml</mask>
-    <mask>*.md</mask>
     <mask>*.json</mask>
-    <mask>*.xml</mask>
     <mask>pom.xml</mask>
+    <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.md</mask>
   </component>
 </application>

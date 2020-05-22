@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="消息队列中间件" />
+      <item value="1 partitions have leader brokers without a matching listener, including" />
       <item value="consumer" />
       <item value="root" />
       <item value="is duplicated in module" />
@@ -49,13 +51,11 @@
       <item value="分布式事务" />
       <item value="popularize" />
       <item value="popular" />
-      <item value="推广" />
-      <item value="puji" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="99" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="ENGLISH" value="100" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
