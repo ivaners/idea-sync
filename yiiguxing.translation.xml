@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a pseudorandom {@code int} value between zero (inclusive)" />
+      <item value="授权" />
+      <item value="权限" />
+      <item value="日期" />
+      <item value="小时" />
       <item value="访问" />
       <item value="active" />
       <item value="消息队列中间件" />
@@ -46,15 +51,10 @@
       <item value="heap" />
       <item value="stack " />
       <item value="LOCK" />
-      <item value="Java bytecode instruction listings" />
-      <item value="封装" />
-      <item value="Interview" />
-      <item value="面试" />
-      <item value="分布式事务" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
+        <entry key="CHINESE" value="101" />
         <entry key="ENGLISH" value="101" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
