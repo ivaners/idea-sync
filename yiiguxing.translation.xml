@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="对比" />
+      <item value="活跃" />
+      <item value="趋势" />
+      <item value="发布数" />
+      <item value="统计" />
+      <item value="state" />
+      <item value="aggregation" />
+      <item value="置顶" />
+      <item value="聚合" />
+      <item value="集合" />
       <item value="Returns a pseudorandom {@code int} value between zero (inclusive)" />
       <item value="授权" />
       <item value="权限" />
@@ -28,8 +38,6 @@
       <item value="程序员" />
       <item value="ddap-micro-services" />
       <item value="splitter" />
-      <item value="聚合" />
-      <item value="集合" />
       <item value="engineer" />
       <item value="高级工程师" />
       <item value="架构师" />
@@ -43,19 +51,11 @@
       <item value="Mnemonic " />
       <item value="Opcode" />
       <item value="in hex" />
-      <item value="store a reference into local variable 0" />
-      <item value="invoke virtual method on object objectref and puts the result on the stack (might be void); the method is identified by method reference index in constant pool (indexbyte1 &lt;&lt; 8 + indexbyte2)" />
-      <item value="invoke a static method and puts the result on the stack (might be void); the method is identified by method reference index in constant pool (indexbyte1 &lt;&lt; 8 + indexbyte2)" />
-      <item value="add two ints" />
-      <item value="load the int value 1 onto the stack" />
-      <item value="heap" />
-      <item value="stack " />
-      <item value="LOCK" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="103" />
+        <entry key="ENGLISH" value="104" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
