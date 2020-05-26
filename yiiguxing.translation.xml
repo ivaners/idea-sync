@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="aggregation" />
+      <item value="聚合" />
+      <item value="集合" />
       <item value="Returns a pseudorandom {@code int} value between zero (inclusive)" />
       <item value="授权" />
       <item value="权限" />
@@ -28,8 +31,6 @@
       <item value="程序员" />
       <item value="ddap-micro-services" />
       <item value="splitter" />
-      <item value="聚合" />
-      <item value="集合" />
       <item value="engineer" />
       <item value="高级工程师" />
       <item value="架构师" />
@@ -50,12 +51,11 @@
       <item value="load the int value 1 onto the stack" />
       <item value="heap" />
       <item value="stack " />
-      <item value="LOCK" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="102" />
+        <entry key="ENGLISH" value="102" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
