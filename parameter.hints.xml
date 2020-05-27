@@ -1,9 +1,0 @@
-<application>
-  <component name="ParameterNameHintsSettings">
-    <blacklists>
-      <blacklist language="Java">
-        <added pattern="com.ruoyi.framework.web.domain.AjaxResult.AjaxResult(code,msg,data)" />
-      </blacklist>
-    </blacklists>
-  </component>
-</application>

@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="gitignore" type="PLAIN_TEXT" />
+      <mapping pattern="json_module" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping ext="2018-08-18" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

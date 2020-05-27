@@ -3,5 +3,24 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.yml</mask>
+    <mask>*Contr.*</mask>
+    <mask>*.*</mask>
+    <mask>*Dto.java</mask>
+    <mask>*Vo.java</mask>
+    <mask>*Control*.java</mask>
+    <mask>*.properties</mask>
+    <mask>*Mapper.xml</mask>
+    <mask>*.json</mask>
+    <mask>*.xml</mask>
+    <mask>*.md</mask>
+    <mask>pom.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
