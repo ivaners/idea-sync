@@ -1,7 +1,0 @@
-<keymap version="1" name="Default mySelf" parent="$default">
-  <action id="emacsIDEAs.AceJumpWord">
-    <keyboard-shortcut first-keystroke="meta l" />
-    <keyboard-shortcut first-keystroke="meta i" second-keystroke="meta f" />
-    <keyboard-shortcut first-keystroke="alt k" />
-  </action>
-</keymap>

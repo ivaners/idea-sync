@@ -1,3 +1,0 @@
-IdeaVIM
-JRebelPlugin
-com.seventh7.widget.iedis
