@@ -1,5 +1,8 @@
 <application>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="AUTOREPARSE_DELAY" value="0" />
+  </component>
   <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="SimSun" />
+    <option name="FONT_FAMILY" value="JetBrains Mono" />
   </component>
 </application>
