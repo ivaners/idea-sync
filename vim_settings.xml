@@ -2,14 +2,39 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/code/java/hibernate-mysql-demo/hibernate-example-annotation/src/main/java/com/hibernate/annotation/entity/Member.java" timestamp="1595428477460" />
+      <file name="$USER_HOME$/code/java/hibernate-mysql-demo/pom.xml" timestamp="1595428379772">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/java/hibernate-mysql-demo/hibernate-example-annotation/src/test/java/com/hibernate/annotation/entity/OneToManyTest.java" timestamp="1595428671757">
+        <mark key="'" line="19" column="20" />
+        <mark key="[" line="87" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="19" column="20" filename="$USER_HOME$/code/java/hibernate-mysql-demo/hibernate-example-annotation/src/test/java/com/hibernate/annotation/entity/OneToManyTest.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">Cgk8cmVwb3NpdG9yaWVzPgoJCTxyZXBvc2l0b3J5PgoJCQk8aWQ+SkJvc3MgcmVwb3NpdG9yeTwvaWQ+CgkJCTx1cmw+aHR0cDovL3JlcG9zaXRvcnkuamJvc3MuY29tL21hdmVuMi88L3VybD4KCQk8L3JlcG9zaXRvcnk+Cgk8L3JlcG9zaXRvcmllcz4=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Cgk8cmVwb3NpdG9yaWVzPgoJCTxyZXBvc2l0b3J5PgoJCQk8aWQ+SkJvc3MgcmVwb3NpdG9yeTwvaWQ+CgkJCTx1cmw+aHR0cDovL3JlcG9zaXRvcnkuamJvc3MuY29tL21hdmVuMi88L3VybD4KCQk8L3JlcG9zaXRvcnk+Cgk8L3JlcG9zaXRvcmllcz4=</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
